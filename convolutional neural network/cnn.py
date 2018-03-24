@@ -74,7 +74,7 @@ for i in range(num_iters):
 
     atr, c = sess.run([accuracy, cross_entropy], feed_dict=train_data)
 
-    print(i)
+    #print(i)
 
 print('Accuracy on training set is ', atr)
 
