@@ -55,7 +55,7 @@ is_correct = tf.equal(tf.argmax(Y_, 1), tf.argmax(y, 1))
 accuracy = tf.reduce_mean(tf.cast(is_correct, tf.float32))
 
 # training algo.
-optimizer = tf.train.GradientDescentOptimizer(learning_rate)
+optimizer = tf.train.AdamOptimizer(learning_rate)
 train_step = optimizer.minimize(cross_entropy)
 
 sess = tf.Session()
@@ -78,5 +78,5 @@ at, ac = sess.run([accuracy, cross_entropy], feed_dict=test_data)
 
 print('Accuracy on test set is', at)
 
-# Accuracy on training set is  0.98
-# Accuracy on test set is 0.9725
+# Accuracy on training set is  0.97
+# Accuracy on test set is 0.981
