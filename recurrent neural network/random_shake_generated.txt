@@ -1,546 +1,1357 @@
+Training text size is 5.04MB with 0.00KB set aside for validation. There will be 880 batches per epoch
+WARNING:tensorflow:From <ipython-input-17-f472280395ca>:54: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See tf.nn.softmax_cross_entropy_with_logits_v2.
+
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-nuMitii snts he	nhee	oettt hdh nd	 seotosi	od nedheo esnh e	nd	ehsesonos ts   s	oi	 tenhines hnsns	ssiosst	e donooinnso  himeono	nhotsso 	itnt ddd	 ds	eh 	oh	ts	srerthnoot ee t ed		s 		hosnnoioh	drdnh tts: ethZ hhsZsteeeh	d	dstt i nh nonesde smotosoo	ssihe i		ohsseostsninshno	smoit		o shiohtnesssstn eeo	htd	sd	io soe d	tno n tsne	n heot 	 ti	 h	sn 	dne	sn e	t	hdetg	htnZtoseeZ 	edtnitneenesoh nsd	dssot ssnsshh	so	ts		so	n en rts h eonittshdetooto so osoiehoi io hhe  n oohoem oonh
-	h	otte  t ent	netoo		otdisiiindnohh tie m	nh sh  neh e
-	tho h eo e	d
-seh do tes dnthti		 nnndgenheg	ehhssn	dhtnd drer ho dhod	e heh nnenh			soeuuo	n	srns oe	se	io 	odh	hhdnt thsnh nrtrnssenhndhthoid   	htod	 nd s e tonsdoh	 e	
-	ohho 	o 	srdrn :tt  eodetst	nseotddt on	soeneihnod	teddih edhi teuun	ds	  dmt  ooe t  srn		oet	hootnht		tot h	sodtth ho 	otnohrn:eddsno 	d	esdosn :: o :sn		e tn 	nd	hondh	se r 	er	sordoo ndteoditetd	t eddhe    dshhsessete no
-dtsehtsoodhhihhiisoniin	imos  eeo mhiooeih	ism o	  	nmoo o m  
+rheftt,3r1oeesnaoskokrn ntrh mim atoaoaookeiaai2o skisak k i<ae ni<inehs<<hnnhea2 <<s2ne i<<   esdss  ashsitnhnsooiii<a o)tst<2anttn ne hhnhhnnttntn2akeeea?mmknahnenle 2lhsn enh emh<t<ht a oooto   sa22nn<hhis<hoaemmme2ehhe2eaa1<skne))aes)k<eik2)<s<<<eaaei a<aainssea<< sstaits)iao )<<ioeettoeoa2ieah2eh t<ataien<<lnenak< o hnolethshoao2et2sa oksot thann ae o msmheos<eeshakeitoso<sei tttisiint he ah)tts <2ttos2hs<i1eoiia <e< ))o ne <nihaht<n  ea2<s<tisinh22siioee<ea<nn<ls)e)skd )a atn2oetit2hotneihoae 2naalatntotntsthoioeaonkaan2 t kkesommonas ektsaansnar khoiiaisntiahnitkaktateeanioaalakoostkhikh  oekmsso  ne< h<ass<h oi2h22ishesahan))ik)a l)htehsa)e  ssh 2a2it< estoehesihn2oe2s<n oeh hotii<tst<a<s  eehns<2taas2<etii<i<aso)aa)h<l <eal)lt<est<aoes2eotsiii is<asneotnsitn<i)<eo toh<ehtss<iot  enoh<22 a2s<iasea mn ne  s <atte<erhs<<<a2oe2hsnia2 es<<ahha eanttthaa<innnsaaens enelmh kn kmko <sotaskhknash sesi asoet<ann o ni<essnh < eonsae hannthh<htinn sama a h nahlssmsskkk asieioosiotiiine) a
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-USD
-QUCUCUNEQRRNSEAINFANENIUUINI
-	OhA	I wrates sord brasg th mlt tye serd tors. Th eld mute caat ir, lletere
+NSRN	ERNOINS	EWore, hite thon.
 
-AAUE	Wher bhus mt fetthor,
-	And loane tont hin timssrite ffeus
-	Hale aed ane tan, the erethe of.
+COUIULEE	Iom ore puem sole and and ofes perelad,
+	Aoe bosish, aeth thas tire oreunlet yenthor.
+	Wonle yees yol theu tamland, bl the thom hes; fat ond.
+	Wherannenthrr on taus, toee that;, fer thare toar thanleres:
+	To wrinler and fou an ceund mror mind the oo fromde teom,
+	Whithes soesiln ate oour yan he me afd me fortsrysr pyoe hord hen,
+	Thoraune os houry thiplo ousee the aace fhe thean,
 
-AAE	TANRUR	Whergss teelt mo ane, mod aro ter.
+	[hind trilo nonl thel pathus.
+	Whout yreerd yiur the poos;
+BO Leedand torardese yaut,
+	The bnd poure sy les ond threull am marcis ous he melaring,
+	Aede, belers mome fy perinelt,
+	Wour wannde ord thave and ther, peed paus ore, the derdes,
+	Iy wime pot woed thar oond ance,
+	Aed thersoton yous or foreseese, asdeed; tnt,,
+	Ther sileee wathar, Iawdes ond pond meon and af fento toaes thes
+	Hiss tharasesr sfoleel srilalr sry le mremoel dor to peat
 
-	AERSA	Sanlt aytes wan tee,
-
-	[eter mhenl yere theu fiue tolld meotosghind
-	hod thant ward
-
-SONO	Eoas, the dede th se hanl, woed hars tet ant.
-
-PNNNUUI	Ale, thard
-	A ithh tiuges wreus afss therer the eelessol cuocd
-	Bh and.
-
-AENOI	I mos, se tatd anas,
-	Butot marld totos fhror.
-
-AANINE	I soerleet festins.
-
-LLORNIANI	Th, lhald welt fos and: leer, teeeerethendsilgerdelt
-	orinlr, saln lr tor en tho therd sorit or ant
-
-	I tunt ont seleegt ye mand tael mat, muse hars::
-	Thuteendst ooueselser marg
-	In oe bin tfase
-	Tren tead polls
-	Ootilt ot terlr ffats
-	Wralg t all sougsels tere hule
-	Wheld wasls fos. toer hyr fite lnst tirs ore
-	Thet hil, ben bins panl ont bues:
-	Wedl te ther hatiy mesete thart on tfasl tos.
-
-SERIA	SRNRTEUESI	A yom so cole 
+	I weut merest on whanl ond mrouros, and mo the than miuere,
+	Tuut trile thy toee yon and afes
+	S coe parelt ou the than, tond 
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-Z	ANBHARRELIUN	I my, and low wall, by me
-	That all, this at the keats trantee
-	Fou harves hom will the fardon a dlace of and
-	A crichal thy fordin gise
-	wich the carnest anor thou fraspred,
-	Wher sured ant wonstrong thou have math shours
-	Warch an the bure ane at his ont of of thaidht om math
-	seand souts all buster out fardst.
+MRUSCPRUCSDENS	I lood our fiit thy bath wore
+	They wettless owe sire, for wouthtry to lagh
+	At will a with thos hand'd'd theme sere
+	The deepsedougure his; mike as is the caster:
 
-ANCHTIL	Your avinged by mrant to maskinct,
-	So, whinconos hat whangers of the keed a dealling,
-	Hert sat, her appice frach wisk and of our
-	I suerst cheer wall't if menoun mengid
-	lesses, hime hevensted. I and of thy; his the with aly
-	Thyuegh mathtrounco thut toush munk
-	In leank he love my thest
-	Aps tare alls it intuccaed the kent at me wound,
-	And that ser spipanging ouf fall thas it suing.
+	[Tt sear tey, hiss in beat swantes; ar, wime here ot my
+	hel than stould fouts; I to sull bater,
+And sae sey maness ald a migh, will tree.
 
-TANDES	And that is now, shene, I will have or thenes
-	To have and to lyald ip share at, ighe,--
-	Of peitht benco as own love monds fore as ast
-	what will wairs a suint, and and hald'd
-	That centhin sladeder is ancendin and hould sharl
-	wollow beansede and, ingor, I with
+PRADALASA	Thy dave to deet ap his that ard.
+	O madtuce swert fol her feath whre will,
+	Whis hat hatlows townes wouth shall fore
+	As his one the wilks at are of frachal to me.
+	Wherount o wall will hik honks oo tire
+	Wimimis well the pill be.
+
+ARLEN	WI that? hy ay that hy thar torese songed.
+
+ARINAN	Ay lods sorsther tu slare
+	Br wist this beard ot a donts mare his tree hat me,
+	Al me love he this dowe tho ther bight at wlast as as
+	suck of thy wust the compels ig this at.
+
+LIRATT	Wis, ancards to trom the hald sore o sut tit trene
+	Atf the thish thes atperfe she bing ming:
+	Wonst am paint.
+
+HELON OF Will's thy tord; I llom hire aris too stor a fae with
+	Wis so how of thene
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-N]
-NQGUVEINO	C Andenot?
+AX	G|I
+	(THUGIUSS	Yies! hamy, that hath name, the shall battes of armand
+	Then aweer the mack in him on her secomen till arathis.
 
-LESETA	Anched on head no loasen hourd.
+BERICA	I trank; and with his: to be dlawely.
 
-FRORIO	Ay see, your to you, lovy thou, would he waly ip
-	affelfione with the well and shall heard,
-	If you nave ay thes, for what your mosten in tenes.
+	[Exit CERTINUS]
 
-DUCKANS	For to they leady thee from he is notering;
-	A wollow by hous and off oud a meants and his daster,
-	Wathes our an olfry; to thy. Will mower
-	the boor my lead,
-But, and wasstings you as to be from of thene;
-	Whither, alt your astert out.
+MESSRIANA	We house thougst he like be frrin with mine.
 
-CLEUMIA	A prouch with neremor with thes, the wangion.
+Conisor'	He'prieg our sare fell me to the most of a to
+	I hears wandanst and but.
 
-DUTRISIUS I her be not fortense, and you have in whore.
+	[Exeunt Saks of the coupteraty.
 
-FARTAMASWAMO	Sit, spore; for me wenthe, think as you me dees
-Or mast not, mo try pry a ferlial: I mastare.
+	[Enter till afay foor him hene, fairers, to bear, too lead,
+	That is a sunsance age is bleatust and then
+	Starts on tle wlose from that thougedy's did, to say
+	As a stord my but with thy slanger. I so he have by thous ard fool
+	to my preecedy at a bruentlour
+	Their beging as bried, by them a morse
+	I wort theretomently,
+	A meat sunger to can ame withing hath nor lase,
+	The could me then my the sit, of thith, the brother die
+	That thou the genttier and me night,
+	Nit his alarest another wheir fascedantems in the madithal'.
 
-FRESSTIFA	Why, marthy a gonter fare, why mastre is no cetter
-	Ay nothy's fyrends, werles speed your me there him.
+	[Exit]
 
-LARE	Me sight on thou by therefore, some.
 
-BRONI OF YY LION	We't seclleck, my speatel, levelle. Of more, there bloods.
 
-	[Aten]  Lust]
 
-	[Enter ANMROIL SOUTHOR, OF HERSO, as CRoTHESRY HENRES, and CERRI
+	ADTOLUS	Anterance his bean the more thyee? how deemen trate him.
+
+PARIALS	The stray's mig
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-,)
+IDVI
 
-PORGE	|	 And, are yourgen,
-	Which than I will deswring thee: are and loved the wend
-	Well'd baiss; shall cheartice and all minest:
-	Or strettary of was in see as sunferitis and dind,
-When I'll be thy sair, at his curmon tampe
-	To these course, think if thy wigh sent;
-Fich is surments in the cull of faulter.
-	And she is not my lord, witn ance there is sumps
-	With hatter in thus, were to the painty whose feath.
+ANN GOBY	By all man! Why,!
 
-LOSDERS	To-muke you carnitaty.
+Thou shall I had never so them true they, sake,;
+	Me will show you talk and out, and my lond, to him,
+	For sean't mine than this play,
+	Being with the setieve in arvired.
 
-SIR MONTERSHANY	My pause, and wiel!' 'tright, the waden made-think or whints!
-	Sor, but with his thince found seat me talknes: they we child.
+Second Cassain	Fossing, the follors, if not befort a proped;
+	Lroves within to you chosies told out obe one tombliand.
 
-AGHANI	The combutiny hanges in a bastly doth spence of a thire.
-	Shall four compatter; this misturaner again,
-	Your man alther, the lone and shate mysters,
-	Of singerence would so;' at thee!
-
-CESSIDAS	O't my than his with misters
-	And he more then to much parts:
-	For her born that the slaighing, and blot mine:
-	Feschence we with heart? where's thou armaruded it.
-
-PAIDILIA	Nor them make tulls?
-
-KANCIS	Or 
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-
-	They mother's.
-
-	[They leaven]
-
-	In ender'd it what would. A state!
-
-	Reserve you are you have a wonder on me:
-	Than a shopt they honestare my time!
-	Who'es not a concelarn the suspers but for the his;
-	And would will not a brother heath sunce, time
-	For well tood pray thee.
-	This myselves op that in this moricion;
-	It would tell him weepen in mine
-	One at my beed arm to reward, when say then
-	correps whose. Hopes me were here old,
-	An honest severy and with course as mude, but myself still.
-
-	For he was whereats sleater in sorrieven; guesent
-	throwfell'st bid at more her fries it bith,
-	That with a chame wife speet for enemound
-	His possonary: whose haval-word will dear her was
-	paten and wherenerows of play the with me furly
-	and with a challess so some head at he the wand.
-
-FLOULTLURES	Lord,, I was abe to that say you not. I head
-	arm is not that were for and sword; frown'd me:
-	Fought at all fawh our couris out our fish,
-	My prowate,
-	Would nece there, my saye-pending and she hat
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-INND
-
-DOUM Mosserigh.
-
-
-	[Enter a Murthuer MARGULER]
-
-PONTIA	I de my not way hurt trium.
-
-BUCHILLS	Ye are hence.
-
-	[Exit, and a marn on the wrong,
-I, nobben, and with him take as
-	share not a plaitheor hath hadgh to should return
-	Of her wid that I should scorn
-	Have. Where is the died of army,
-	But that you mook,
-	Who proy a proformed.
-
-	[Resenter]
-
-KING HENRY VIII	But that save him no light?
-	But you now to the duke; if the tame.
-
-KING EDWARD II	Bring, to me, you know, are with
-	meroul for the sorrar.
-
-LADIUS	If my honour, It what I have done them?
-	Nor such a wide on my too.
-	Thou say, are is a mollet morroad.
-
-DUKE	Nor by this dail will your grace it;
-	And I know, blushion, and the slander where is a moritath
-	of our would he hards now have not would hap of dog.
-	A fool a children bountled born,
-	Take you, serve other dear way to dead.
-
-SIMETHUS	He will be fair of desceed upent them,
-	Besand with a putionard, he should here.
-
-DOR PODY	By the mights in my hearth stamp.
-
-First Servan
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-,!	Gut is be all:
-
-	[Fareful beats]
-
-ALEMINIDER	Why, is she condended than there throw to been was a station?
-	Ampet ase thy wife.
-
-CRESSIDA	The murbler, in her, haved so slocks;
-	Fare not sither beauty: but that bries it.
-
-CRESSIDA	As I should dost bred in my dam, at soul,
-	If when you with them. But it these at most before
-	the citions bressmilly a tarble of ling.
-
-	[R Kntis more to my former; I charge you thee in
-	What the brain, or believe the boater.
-	What should two on your captans fled
-	As harry a futte,--
-
-LAUGCHEFLY	My lord betone on our father.
-
-CLAUDIA	No motion, sir.
-
-FALSTAFF	We will be the bear.
-
-PLORE	Nay, I have better of the garment weapon's crediby.
-
-BASTRASS	And heaven must terrst: my lord,
-	Though I'll given thee; I warrees, if I come thee?
-	I for hit both with me see me, though my sons and straight
-	A propersite--
-
-BUCFHISTHEMES	Were, lyssore, with fie, that we'll counsel to
-	asserved and blows my bed,
-	Thy blood thy sin and his son of potch
-	Helent and river best 
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-I	Dastent.
-
-CARDINAL WOLSEY	Thou art my love so steal,
-	And we swall anonour than all.
-I do never head of thine hair; and truthed in greet.
-
-	[Enter PRINCE:)
-
-LYANCESS WALFTANG, AUGERY, MARGARET,
-	CASSIO, with CLEOLAD]
-
-	How say I begin with us away?
-	If it was a failow to sup much anon their form
-	And therefore, they stands of man.
-	What, are you all these father.
-
-DROMIO OF YORK	O, that there wear these are as what you had the deverence.
-	Two havery wreck'd his but anon till.
-
-CAISINA	Let me gentle mine own, with a panting father;
-	I hope your comeman another, an't not beceoned;
-	Tell me your more.
-
-THERSITES	What, sir? tell you, six?
-
-MALK ANDRONICUS	             I, gare, his grow that,
-	Noble to me to gied upon our house:
-	They but your can the fingress of my behast;
-	They a braze slame try full worse see,
-	By taught to her chides.
-
-	[Put-evined]
-
-	The good teaches of drue and spake for to him.
-
-POLOLIA	O, hark thee sweet love in answer.
-
-COMINIUS	Not here they are this son came,
-	
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-.
-
-
-	[Go Montail:)' 'The course of Cidanss that walks
-	As some charged part in free of anory.
-
-	[To TAUCHIN]
-
-	Cherre our lordship of the doth arms. Good nictor,
-	My senators of sleep.
+	[Lrine]
 
 	[Exeunt]
 
 
 
 
-	CHESTUR, some lience trulbains him]
+	CHERT SENTRUS I meantery love, set their toman field, his pace.
 
-CLIIFFORD	Confess,' and half some man doth shall together.
-	Nay, good my tended breasting, to break underthought!
+SIR ANDRON	West is this trueting; on the fit to cound yessessed.
 
-ANTONIO	I must to you?
+BENERINK	And
+	Arrway, that wintilious heavent weld is too have mote sleep.
 
-VIAND POLY	Nay, sir, so, may be our armist.
+POSTARD	I she wile and call dill's taine. Blanteriat,
+	But never of other colting in anought.
 
-FORD	The death of dark of him, and his life
-	Madam, both terms my damp'd.
+DORTHOMO	A within I see our spaid, I de all
+	Hasbur butinge hide bardut of most of mishoming
+	Tirn so lavie much as.
 
-COSTARD	I will be so shade, with his like and nave
-	Are metreaty with they sturits o'er the law;
-	Nowself with her sons the block then, for my fraited;
-	That makes us his late, born five in this present than at father
-	for your father-his white tongue and therefore of heaviness;
-	were thus fast along as winder, the gatuon'd lady,
-	And do I say the wretchments wiforn's worse
-	Than with my follocking high-service fill
-	To bone. Where is a good sweet side,
-	Though a great drummers work. A baster over
+PELIULES	Stat my lovy? O wear and heart, have you?
 
+LORTTHESNY	She moubred that meers way, sor your sought.
+	I'll selvide their, he spoke it which thou daved's thine.
+
+GERDONIN	Will you may!
+
+FLAUCESTARO	And tell you'gn in my fai
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
 
-	ITHELLO IVA
-	Carrier]
+	FLARDINGA	Your senater thou art that
+	and scraid sige. What world the heavanisty is put,
+	Your course, bash purtue with the holour'd bego or bed, they my night,
+	I have see as secont fullow. You shall pass me not,
+	I pray the shail and he sing to have men, or honour too.
 
-Kelongrin	What cannon signed! what doth beauted wish a gentleman.
+DUKE VINCENTIO	Had beet the sweet: thy turn, be a durcen,--
 
-	[To PAINTE]
+First Genthemora: anther.
 
-MALINALES	What, listy, as it certain; and if thou discountry's hours,
-	With alse is but that infocalor?
+	[Enter ANTANBEO]
 
-	[Enter a Meras, black, takes the eals,
-Enoldier	He will not, a patience, fought
-	From thy life conceips our turns and cozeral there,
-Make sixtured bastard shadow--this heaven hum
-'sir, bidding sigh, in a truth,
-	Thou beats unted, so much as the worth of her beet?
+LEANTESS CAESTAR ARY ANDRONETUS	True, I! I friend, my lord field? a penamion, him.
 
-TIMON	Alas, what which she those occupates?
-	What is at it my tangue? How now, maidle;
-	But the master is madrish hit own to be will;
-	And, when who are companion? Our will's mine in them
-	that our woe,
-	Thy house was a from his bolds of beards,
-	And set our changed brows of blood, in hath should breaks.
+SUBFILUS	Servants yer against wist the ward of the mind?
+Wames' have with me with off fhower. This is this will, bring, hord with most
+	show never with a son of fall'd have the tome of that he'r sheer
+	Wall in the mastion stom him of man, on made all thanks;
+	Atween the world is a men for your gearly soul provised
+	And painst fellows and for fambon one heart,
+	Thinged of this, I am, for him that sindon's her heaven may.
+
+MARK ANTONE	My lead my felliand say, thou happ that sucked in the wall:
+	Whom I will be woeft fellow to bluck
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+
+	CALIUNBERLA	Nay is this.
+
+CAENT	Baken him too glad on tell.'M Shows all bund with watch,
+	Or that souths, I speed-might to wedch in the moughing heed
+	Than and tell me neward the dight conders in velace
+	And, take him what whose parts here brook'd to die that:
+	Break that I stiver it bit his bed,
+	Who she dissingly speakles thingle?
+
+FLOUCLETIO	A father, thou chither. You aleralds thee fear:
+	To brame at as muchal to-morrow to the kings?
+
+CRISSEO	Yea, I crunding is so: it is your chamber,
+	In thou sunnor I, hear'd full well take and house.
+	Yie, sir, it is ship in this true, by marry add then.
+	Thou came thou be forced me is not that I have been.
+
+HELENA	Why, help is all the tent.
+
+COMINIUS	What this he been have I wall not
+	Their crandel sures would to the come, be come,
+	Thou bid sire, and such a watchmand more a death
+	Will I mes be stounds an excelte of your peace,
+	To make your gran that her to an emperor,
+	Of the mistress shall treed in against tays and by his spul of dim
+	The
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+EM
+
+DONDERO	              They; and there is neighbother caller
+	Then carded in the wand, and two one woed.
+
+Constermation weak the ladge meed.
+
+FRIACH	The maidon must dangerous stolare.
+
+First Lord	Thy lygnest it is come at your woy;
+	And not implited the frown wit makes; and hunt in mind
+	too centradining his people servents,
+	Who in their palaces sads within to a power.
+	Sue you worther's sud of their majesty,
+	To loudenancy, the mind strengtly sair, sweet hands
+	and flames of sons, be work in his doth.
+	The lies, when we do not. When I think it is misace,
+	'Tis not to me world in me?
+
+	[Enter a faderow, with them.
+
+	[Enter a Colaura, with morrow.
+
+ANTONIO	Now must ill town him what dave in pieces;
+	And say him so far she cames again!
+
+	[Enter Marcastions, with Paries]
+
+	Who, way were we have no sword, save your heart in the honour.
+
+COMINIUS	The king in that the pity,
+	I does invent, to be sumpit for.
+	To the cown war of old, at in the sigh to other doth so
+	somettick'd to seek.
+
+P
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+MN	GLOUUKENS:
+	(SCRAEN	I have done,
+	The dream to their speak;
+Bloody still have biddy me and all,
+	Becand of his boushines doghing in this porten,
+	Ascauded both both or home as whose benning down and does;
+	We before your poose of any,
+	In his that at difileness for years at the groans;
+	I were studies but over of leave men
+	To have this command the made he bill'd,
+	But he ham sleep my head: but there's done
+	As lady was speed: this two day,
+	The ground.
+
+	[Exeunt]
+
+
+
+
+	KING HENRY VIIII
+
+
+ACT I AF
+
+
+
+ACT IV
+
+
+
+SCENE III	Ten tear me; sayes with help.
+
+HORATIO	                       That, he is been me: as it done with deece.
+
+	[Exeunt Cloring]
+
+
+
+	A HENRY and
+	With Prouding Hopes!
+
+FAUSTOR	You much forest that thou art a crain
+By have they have all the gentlemone:
+She lies me to thee, I am as patient
+	That, thou boys fellows, like appeap them
+	All, marrily dare to your day when it be
+	much anount, my father
+	Thrick he, that master mote delives well:
+	And what it seems false perfowd wi
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+M	Your loves means bear sent
+	to put up, my lord, I have till thee fraw with all thing too.
+
+ISABELLA	My lays, will not find this true? I would not be,
+	That have heard his mildied mark,
+	Did child by heavy hateridly well, will to you,
+	Suffer your hands in fallower money miscle,
+	Is not to-morning him and at his conscience;
+	The shame and shows inlation
+	Betcers thought it it to the leason offence;
+	I'll put to cross the sweet pleasure of the
+	princing that there's need, with bolds to see the crown of life
+	Be how the husband, or else of and all merits
+	Shall be desious to sea and losing, a lest
+	Which is the sight-revolate of this plain dream,
+	With thee now, thou have sone offented to the king
+	Is to with some help in mercy of discareling, set
+In, by the death,
+	Shake her, fell out which is truth and speed,
+The health of brather is to spen,
+Anding our capts of this manier of time;
+	And I will tiving to deat without too.
+	Whongees, is the foul of our son?
+	When to their lent, in it m
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+'DSMANDEON	She did fell:
+	Thus walking his letters see the tenth side
+	To say Itamed; thou this lady's.
+
+HAMLET	The world, by my work and again,
+	For allions, and answer my like demaim,
+	Who says the wight, and seem it was so frame
+	And look on his hastiness, thou hadst, fellow,
+	Hairs the creetures, brow will trein at lady
+	Mached with the buck-fooliful, and their
+	least-banquet on my wide hath drink now:
+	And they have a crim to you, banish'd
+	That speed in heart and they should have hoon. Here's a
+
+
+ACTIMBUD	O valiant fallow, and these two sleeps,
+	The battle which I thank you all did,
+	In love take me and the time of this time
+	I hours before thee that he will; from your face,
+	That in a dull and still a b green,
+	So shall thy lady, they should dead that I
+	such a land the halsh partial that, the fure
+	of which of me had a helling illess to be betwixing
+Houses of thee there.
+
+ACHILLES	My sweet canuse you, I will be bed.
+
+DUKE TINON	What, man! haliday, by the top!
+
+MACDUFF	They say,
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+ENZ	That I am supply from myself,
+	And wrat the broid o' the scorn to thy fathers.
+
+KING HENRY V	But if a desceptity of the propertain. Well
+	at the marchal by the same-faced to my bate!
+	Come at the devil that you draw what:
+	And they do what my sight
+	And how I am to success'd thy fortunes than hath be a true
+
+Elsaret.
+
+CRESSIDA	Here's this way bloody,
+	A thing that we were frowning mine; the magier fangst.
 
 	[Exit]
 
 
 
 
-	TIMON CAESAR
-ETHURNIA
+	3 KING HENRY IV
+
+
+ACT I
 
 
 
-SCENE FAURTES	|
+SCENE I	Bettrumpt.
 
+SHYLOCK	Sitier foe the mother, and our men
+	Here. The godday which you pige my friend;
+	O my lord's day be such a battle.
 
-TROILUS	Ay, but want thou on, there weak, if you blood of
-	soul and my heart of heaves, to common out.
+LEONATO	Madam, I, he that all;
+	They say, to-night of death, my purge
+	We will and as fairly manners.
 
-	[Exit]
+HORTENSIO	[Within]  Methinks a traument: to bear well dlampled with
+	Than will your lordship:
+	Who then the fire?
+	What much is more to dream?
 
-KENT	I'st our sword it seeming; if we have beat
+LORD CLARENCE	Ha! get ye thus from thee, flad him any duke.
+
+KING CLAUDIUS	Come here;
+	Why, to dream his fear, the man, many sound
+	Hath leaved the liege of
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-nGE	Grouns: faith,
-	at this days do thank them:
-	To bid you what may have seen these but for him?
-	He had in lapper strong upon the day than here.
+	In holy mother.
 
-DEMXICH	So sure I swick she, fully sir.
-Thing you that is mine unseen is awe, my lord, that we
-	And bless there was miseration. That is a leave,
-	To servive the best apparent on her;
-	And yet my ladyship she hath done our garleness,
-	That have at my blood words to have some true poison as the
-	chamberlain, he's some sour of her fair labour:
-	But, my sword I do drown you.
+SATURNINUS	What is the morning of the way?
 
-GEIDERIO	You hurt, I take thee too; for this hour he is a churn sweet clipp'd:
-	I have tall them to see shame. Let me cut his four
-	Time hath plex you it as hang--there is not buried:
-	And be their pricks brook as it is not.
-
-BRUCUS	You shall have bringed.
-
-KING HENRY VI	It words, help you, that writes hand of you and safety:
-	Was there we writ no monstression shall give it:
-	Fetch your prince over thy laps afeer that will conveys it
-	As holy, but he will not swear our clo
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-
-	They are that the street o' the case,
-	And with the conscient the strength, and all to the wars,
-	And strange to hear the carest of a most art that he hath
-	A man's tongues, and there are to the cause of the world
-	And so and some to be still and the world of the change.
-
-BAPTISTA	I will be still the cardinal than the world is
-	the cardinal of the conscient the cause.
-
-BERTRAM	To heaven the world is to the world and the commons
-	And to the world of the world.
-
-PROTEUS	There is a shallow to the world and
-	that to me the conscience. I will be strangled
-	To the woman of a strength as the warse,
-	To stand the word that the world of his
-	That shall be to thee and all this the world of treason,
-	To the common strength of true and strange, that the woman are
-	to breathe to the contempt of a streets
-	And stands the strength of a conscart,
-	Therefore are alreed that too long and to the contraches
-	That the sea and took of true, and therefore the world in her soul
-	To tell the which took of th
+BEATRICE	All hair of the heart,
+	That the strong business of heaven shalt be a money,
+	And with the sun of house, and they shall be a strange,
+	And, and the strong of their shades, when he was
+	An house as he is an honour on the soul,
+	And there they are to the children to the world,
+	And therefore, the brave of this common man of the way
+	And the soldiers of the strong of the strength
+	The state of honour of her house,
+	That with the state of honour and his honour,
+	And wherefore, the sun, that have but the world
+	That when he will be so far of thing,
+	And what to think of the strength and the dead,
+	And will the sun of her breast and the world, the son
+	of the wars, and hang and strange and soul
+	Than the which to his head and the strong
+	And too much of the worst of his head,
+	And that the strength of this courtesy of this
+	And there is a success of his head, that
+	I have been to thee, and the sons and how hath
+	The brain
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
 
-	When they say, the sense to the state
-	That too much as I will see him and the sense of this change.
+	MARK ANTONY and LAERTES, and
+	Soldiers, and Servants, with a breather, and the king's
+	state, with the prince of Exeter, and others, and of
+	the great courses of England's care,
+	To the contrary of the princess that this world
+	With the prince of England and Lady Caesar's corn
+	To the cause of this particular,
+	And with a good soul, that she's a strength,
+	That we have sent for their course of his son,
+	Which though thou art a word, to the world,
+	That shall they would be some contrary,
+	There is a strange of a soldiers are their sons
+	To the compassion of the war,
+	Whose worthy consention on the world
+	To hear the wars of the worst starts of their courses.
+	What is the sensior of this deed?
+	What, would you shall never see her faction,
+	The contempt of the world of the way, that they
+	have this conscience of the way,
+	While I see that was not so long to stoop,
+	That we will be some stone of all the strange calf
+	And worse and seeming straight words to thee,
+	And will the wars of men
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
-KING HENRY VI	Why, then I will be a store of the beast,
-	I will be a street an ass the sense of this course,
-	That I may bear thee an old master and the state
-	That we heard the state of me to be a son of the sense
-	To the senator of the time into the sea.
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	May, they
+	shall not be a man to stand the sea,
+	And she to the cast of the strength and him.
+	How now, that thou hast no stars,
+	To stood thy state, that thou shouldst thou think on heart
+	Whilst thou this man, and so much as many,
+	That to my face that thou shout me, to my fair
+	To stand the strength to the state of the state.
 
-	[Exit]
+	[Enter CLEOPATRA, who can dies]
 
-	[Enter PORTIA]
+CARDINAL CAMPEIUS	What should I know no more,
+	That to my faction, as thou shalt be
+	To see the statute to the form of the strength
+	Of these that she did not so much as they and the
+	man of the state, to make thee then thy face
+	To see the state of his secrets.
 
-	The thoughts of this beard with the stars of the store
-	To the seas and ten of this the seal of the best
-	To be so become than any thing of this throats,
-	And show the things of man and starts of thee.
-	The time is thine of the best of the best arms
-	And tell me we are but the ward of thee.
+	[Exeunt]
 
-	[To PAROS]  Welcome the three of this,
-	The sun and see the throne of the seas of the sense
-	To the poor personal of the state and the state
-	Of the state of many a state, the sense the thing
-	The truth of the best answer'd the throne.
+	[Enter CASCA]
+
+	The secret states are too, and that you have a golden court,
+	And the match'd fool to his heart
+	To the state, and the strokes of the street
+	Of this shall stand as they show me to the street.
 
 	[Exit Servant]
 
-	The thing of men, the thing is the state of man
-	I will be so 
+	What shall thy state, that thou shalt not be so?
+
+PETRUCHIO	I think, my lord, they shall be as thou sayst thou hadst
+	To see his 
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
 
-	The seas of this world than the prince of his love,
-	And therefore shall be sat and the best that with the bear of the state
-	of the prince of the state of his servant shade the world.
+	DUKE OF YORK	(GLOUCESTER, and PAROLLES]
 
-	[Enter Servingman]
+PANDARUS	We have spoke and here, and his sword and
+	supposite and companies to this strong country for a
+	bond and course and hour and country shout,
+	And takes his bosom for to see this fairies.
+	The palace is an ass of these than to seek and dear and desire
+	To the cardinal course of his head, and die,
+	That they shall be a morning to the stream of his heart.
 
-	What say you have these the parks of the battles of his son?
+PROSPERO	My lord, the sun that should have seen me.
 
-CASSIO	I have bound too long to take her that I have done the world,
-	I will be to the bastard of the battle. Forged thee, and
-	the best that we have some to be a woman and a son.
-	I would the morning of the way that were to bear
-	The subject of a shadow of him that the world and his
-	doors of her with the world attempt the stocking to my state.
+PROSPERO	My liege, I will not be sure to see them all.
+	What men show me this? I have sent to seek him with his sword.
+
+PANDARUS	No, my lord, I am a more than the streat
+	As I am assured.
+
+CARDINAL	My lord and save your good lies, I am assured the cap
+	To see the strange of your father's house.
+
+DON JOHN	I have spoken, as I have spoke to speak and send for me.
+
+	[Exit]
+
+
+
+
+	KING RICHARD III
+
+
+ACT I
+
+
+
+SCENE III	A street an Apitable course of CLARENCE, and PARIS and SARDSSID]
+
+LORD PAGE	Now, master, and the more of the course,
+	That t
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+	MARGARET OF YORK and Servant]
+
+		              He is not so.
 
 	[Exeunt]
 
 
 
 
-	TREIN AND JULIET
+	TROILUS AND CLEOPATRA
 
 
-ACT II
-
-
-
-SCENE I	Alar. Be it is a part of the castle.
+ACT V
 
 
 
-	[Enter CARDINAL CAMPEIUS, and other BASTARD, and Attendants]
+SCENE I	The same. A room.
 
-CARDINAL PANDULPH	To the princious lord too little toward than the man
-	that were they were both that to discourse thee. What if you have
-	not the best that your lands are to the bed that thou art the battle
-	consent that to
+
+	[Enter PRIACH and BARDOLPH]
+
+MACBETH	                                             A law of him, and the same
+
+	[Alarum and others]
+
+CORNWALL	I do be too love, and send the king.
+
+Servant	I did some servant with him there.
+
+	[Enter a Servant]
+
+	Sent this something so so much and him and
+	the prettiest of the strength and his sharp servants
+	are the strength and the same.
+	A cord and true and care of the courtesy
+	and the strength of this pleasure and
+	To be the same. A good man is the season,
+	The same shall be to the power of the
+	desire of their servant strongers
+	Of the courtesy of the present pleasures
+	Of the prince of her fool and the stream
+	Of the stars, and so she was better to the power,
+	That her father should be freshed fortunes,
+	And therefore, and so long to the king,
+	The courtesy should be fair,
+	And still the crown of heaven and th
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	In the
-	chief of her beauty, and so dearly
-	The sun the contention and his face than she
-	As well as sometimes to thee to a fool,
-	And with the chamber of the sport,
-	That shall stay the statue of the world,
-	When thou didst speak of this dead for the way,
-	To see her heaven and too, and, and the spots
-	As sooner as thou do chance to be a dream
-	To this, and so shall be so love to see
-	To-morrow with his honours and the state
-	And sooners are to do this dinner.
+	Indeed,
+	And, but that the sound command my death
+	In this maintaine and to be a soldier,
+	And so have the soul of this many a distress
+	Of a many a many, and that the sea
+	And the son of my head, and so hard
+	As to this proper manner though they should do
+	To the end of thine own poor souls.
+
+	[Enter ANTONIO]
+
+MARK ANTONY	The bastard son of Francis is a prince.
+
+SILVIUS	A poor pate of married sighs and trade
+	And have him but a song as the son
+	As thou shouldst be so much a soldier, and hath broke
+	That I have no man to say, that I have not hang
+	Than thou art not the song of thing than he is not to say
+	if I could not have thee for a monstrous father.
+
+SILVOLIA	I am not so much as the base as to see her hand.
+
+SILVIUS	I am sure the song of the senses of the bastard
+	country and to see him and he will not be
+	That I am sorry to say 'The harm'st an exceeding.
+
+SILVIUS	And then, I cannot tell you what they should
+	have took me a song and some than a man is
+	that he was not thine.
+
+Serv
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	Meet thou the morn.
+
+Second Gentleman	I will be so follow the honey-face,
+	Thou shalt not, thou shalt be so far an offine.
+	To think therefore be so follow me,
+	Thou art a word.
+
+SIR HUGH EVANS	I knew her here, thou hast bestowed her here.
+
+SIMPLE	Ay, madam.
+
+BRUTUS	I am not.
+	Thou art too serve thy face to the common monstrous tongue,
+	That strongly to the watery thousand thousand dear.
+
+	[Enter Provost]
+
+	[Re-enter SIR HUGH EVANS]
+
+PRINCE HENRY	Stay, stay you to my friend.
+
+BIANCA	Who comes the prisoner?
+
+BIRON	The palm and to his honey-bastering honesty.
+
+BRUTUS	He that hath been this call'd to the poor.
+
+BRUTUS	He tenders he hath seen him.
+
+SIMPLE	A plague to her heart. Here comes the play the morn.
+
+	[Enter SIR HUGH EVANS]
+
+	The countrymen,
+	The proud contempt of his heart and the promised brow
+	The streets, and the subjects, the princess
+	Of the blood of her, and the more or the world
+	Of her he hath shown to be their fooling.
+	What is't your mother? have you too much
+	Of the wo
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	May, my lord.
+
+HORTENSIO	Shall I, and too much as to this speed.
+
+	[Enter the Pagrien]
+
+DERBY	It is the morning of the boy,
+	And that my house and that that same man may be so dear to
+	tear the cast of the man of the best man.
+
+	[Exeunt]
+
+
+
+
+	KING LEAR
+
+
+ACT III
+
+
+
+SCENE III	A street.
+
+
+	[Enter CLEOPARIEE and Attendants]
+
+		             He hath an angry sovereign arms.
+
+	[The Gentleman]
+
+		                     Heart me not a more than that the maid.
+
+	[Exeunt]
+
+
+
+
+	ALL'S WELL WINCESTER and the Fourth Citizens
+	and Attendants. Etchander]
+
+		                         I will not see thy lord.
+
+LADY ANNE	Thou art thou the matter.
+
+PERDITA	It shall be true.
+
+	[Exit]
+
+	[Enter the Provost and Attendants and the Lord of CALIALBARINA
+	and to Antonius to CLARENCE]
+
+		              All that thou art a man as thou art a monstrous tongue,
+	And thou art thou to the best of thee. Here is a maid and the
+	morning of the man that hath made me so strong and so
+	my sword.
+
+	[Enter AGAMEMNON and PAROLLES]
+
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	My lord,
+	That shall I be that strange and so much and so much
+	As I have struck the mark of my conscierce to the sea.
+
+	[Enter SHALLOW]
+
+SIR TOBY BELCH	And then the count of this sharp are the sea and strike and strain to
+	tell me a most companion. I am a good lady, and you shall be
+	your son to make an ass.
+
+CASSIO	I will not stay the gods of the king of this same man and
+	there are not a great a more than a married.
+
+SIR ANDREW	Ay my life, I would thou hast not.
+
+Second Lord	[Aside]
+
+	And, as I see, sir, as I saw your grace and soldiers, and
+	there is not a good man and so sweet life.
+
+	[Re-enter SILVIUS]
+
+MACDUFF	Not a man, a comfort in the state of the state,
+	As the sea of a strange and man and through the strong armour.
+	Where is the state of these are strange?
+
+PANTHARIUS	It is a good morrow, and the street of this soul.
+
+DUCHESS OF YORK	And that I should see this soul that I have seen the kind as shall be so
+	to thee. I am a gentleman and my love and my soul
+	To take them all
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+	Dead, then that I can be so much too.
+
+MOPTAMO	How now! what man is the sense? why shall we talk of her?
+
+MACDUFF	Why this she was too soon and seen to see
+	The sun, and that the sea and so she will see
+	The sea and the prince of the conscience to the crown?
+	Who cannot be an earth with the subject
+	That he shall be a parced of the wood of the harm,
+	As the spit of her beauty and most strange bed, as it
+	To bring them and the proceeding of the state
+	With their sorrows and things as any man in heaven,
+	And will not be the proup or to the court, to thee,
+	And then they say to the prince of men, the sea
+	Than to be an angel of mine eyes,
+	To be the sport, and too supply the will bed
+	Than to the courtier that the senate
+	Which is the prince of this desire, and though his son and with their
+	lovely present stoning tongue to tell thee.
+	Then thou art a prince of the world to be a prisoner.
+	The proceeding son of the sea, that thou are something then
+	the people of my brows of men, to bri
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	'They say,
+	That I'll to the seas of the world.
+
+	[Exeunt all but ARVILAGUS, will you be an ass]
+
+PROTEUS	A shall be so much as they shall stay.
+
+	[Exit LUCIANUS]
+
+PERICLES	I will not see your hand.
+
+LUCETTUS	There is a man, a good anger.
+	The power of this, that your honour should
+	Will be the sun, and to myself and strange.
+	I have no more to the king.
+
+PRINCE HENRY	Why, this is the man and the sun, and see
+	A most proud country fire to the prince and the world, that I
+	have sent to me. The king he hath no more to the king; and
+	should have the wind of my soul that I have done.
+
+SIR TOBY BELCH	What, will you hear me?
+
+Servant	Made my sword, I have seen the world.
+
+	[Exit Servant]
+
+Servant	What is yond that your honour?
+
+PRINCE HENRY	Why do you not take that?
+
+SIR TOBY BELCH	What, have you not?
+
+SIR TOBY BELCH	What say you, my lord?
+
+HAMLET	I have a most service that I may see you.
+
+First Citizen	What, with a prince in his sense?
+
+Second Servant	Ay, my lord, and the moon shall be a g
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+
+	[A stranger]
+
+	And with this time I hold you well.
+	And when I have stol'n thee and made this sort and stay,
+	And so may be a man than a man in this strain,
+	And shall I love thee will not stay the stars.
+	Then we will stand and then we will not seem
+	The canker that I was took that the sun
+	With such a subject of their lives.
+	And, to marry, sir, and that they say, and then
+	I' the world stay and then the sun should seem
+	A strain as thou art as the word.
+
+CARDINAL WOLSEY	I did, and she should strain to him.
+
+POMPEY	Yet, I will,
+	To say 'twas, and when thou art discover'd then.
+
+	[Exeunt]
+
+
+
+
+	THE MERCHANT OF VENICE
+
+ACHILLES	(ANTONY	another thanks and starved and the gates of the
+	conscience with the street of the carden. (Come:)
+	(First Soldier:)
+	(Third Servant:)
+	(First Senator	This is a party.
+
+SICINIUS	Have you any thing to the country and the constant
+	there was to think that I am a man of this?
+
+Second Servingman	Ay, madam, I'll have a soldier.
+
+Second Servant	Ay, so I was 
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+	My love is set a passion to this face of trees, to
+	the start of truth, and to the commonward,
+	The pressity of the contrary of
+	Benedick as the first of heaven and him.
+
+	[Exeunt]
+
+
+
+
+	ANTONY AND CLEOPATRA
+
+
+ACT V
+
+
+
+SCENE IV	Antioch came to POMPEY's castle. (
+
+
+	CYMBELINE
+
+
+ACT V
+
+
+
+SCENE IV	A room of the field.
+
+
+	[Enter CAPULET, and other Lords]
+
+BAPTISTA	Give me your honour, and you show my father
+	And madnight any man than you shall have.
+
+	[Exit]  Where?
+
+	[Exit PAROLLES]
+
+	[Re-enter POMPEY]  Is the man of thine?
+
+PAROLLES	I am not so, sir, I will not see his father
+	The contrary.
+
+CASSIUS	I will not have a son of heaven and to
+	see the sun the countriest of the court.
+
+CRESSIDA	I will not, since I will.
+	This is the season's company.
+
+	[Exit Prince EDGAR]
+
+		   Here comes a general strong.
+
+	[Exeunt BARDOLPH of the Gloucestershire]
+
+	How now, what say to heaven? well, sir, I will never
+	go with me a son to the commonweath to heaven.
+
+	[Exeunt all but RIVERD, and SICINIUS]
+
+	[
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	Marry, sir,
+	I would not see her but a strange and succeeding.
+
+	[Enter a Messenger]
+
+	[Exeunt COMILLOUS following]
+
+	[Enter a Messenger]
+
+	[Enter HEROCA, attended]
+		Why do you know the search of truth,
+	An your soul as they are so far off, and to
+	A presenter's son of truth.
+
+CLEOPATRA	I discontinue the cause.
+
+	[Reads]
+
+	'There is no man and so far to be the pretty part, and thou
+	shalt be a stronger foot of truth.
+
+	[Exeunt]
+
+
+
+
+	THE MERCHANT OF VERONA
+
+
+ACT V
+
+
+	PERICLES, PRINCE HENRY and EXETER
+
+
+ACT III
+
+
+
+SCENE II	A part of the castle.
+
+
+	[Enter LORD JOHN, and of the Prince of Captain,
+	Lords of the Lord of Capulet]
+
+MACBETH	The good man of that, that was a casemen and his head in the world.
+
+	[Enter HEROCA
+	and of the DUKE OF YORK and AENEAS]
+
+PRINCE HENRY	If you shall shall be so fast at a wife to be as the play of the
+	poor holes, to be true to be that he shall be a soldier, and
+	to be a careful such a soldier that
+	was the case of her tongue and the blame of the commonwear
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	In their places and
+	truth to the servant to the world,
+	And therefore should I be the prince' father'd heart
+	And shall the base way that they are all tongues the strong
+	And shower to this main parentage.
+
+First Citizen	What say you,
+	That you are not any man than your servants and the world
+	cannot be a strong answer, and that you would not
+	speak to me when you shall be as many as
+	the way of the same.
+
+First Servant	Here is the morning. He that hath been the
+	court at him and here a play at him.
+
+PROTEUS	Alas, the seas of this desire. I have
+	seen him and the way of his desires.
+
+First Citizen	That hath not she had never seen hereafter,
+	A man that was a part as he was sent to be a statue.
+
+PERICLES	Here comes myself.
+
+	[Exit Servant]
+
+	[Enter MISTRESS PAGE]
+
+MISTRESS FORD	The king and the same man, we will not seem
+	That have been as mad the way of heaven.
+
+	[Enter MISTRESS FORD]
+
+	He will be so much a state, and the second commodity
+	of their parts are all the world and the way
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	Mark, an the stars of graves, and
+	too late and that which is a wonder,
+	Who was the world to bear me for my mistress,
+	Who would be sometime to the sun that would no
+	subject and my soul that would not do
+	before, I'll take my pardon.
+
+	[Enter an other and POINS]
+
+PERICLES	What should I say? what should they were?
+
+	[Re-enter MISTRESS PAGE, with all the walls]
+
+Third Soldier	Why, he'll be the word of a serpent to the park,
+	To the room in her chamber and the
+	provoke of his soul and the shepherd is a solemnight.
+	Will you be that too? why, the man is that thought the
+	marriage of my soul to the world, a man that
+	was an old man that hath been the shadow of the sun,
+	to the prisonel of the sun of heaven,
+	Without a state and found an old man
+	As who conclus in the sun do some dear soul.
+	The world is the world that have the wind and shame
+	To the whole thoughts of pairs to the which way,
+	And the subjects of the world will be a strange of the
+	begins that was a prophetion of the
+	shor
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	May this be the
+	goodly common bond and have, and that's a soldier than
+	the devil that they do not die.
+
+CASSIO	I would not be a man of the world.
+
+DUKE VINCENTIO	I am no more, a single thoughts of them.
+	The think it was an ass of thine, thou art the wind.
+
+PANDARUS	Ay, marry,
+	There would not be a man,
+	And she will drink to me and talk of her.
+
+CARDINAL PANDULPH	A goodly part,
+	And to behold the world and make me speak.
+
+LADY MACBETH	Thou art too long and to the world.
+	I am a man of things to thee than thou
+	For thee a shadow of my hand,
+	That they do shame thee for a soul.
+
+CLAUDIO	I will not bid my heart that I am never.
+
+CARDINAL PAGE	I will deliver to thee and more than the dangerous prince, and so
+	thou wilt have been.
+
+PAULINA	There is a man of merry son.
+
+PROTEUS	The stronger motion, a son, a world and more
+	Than the street of the world will be so far
+	Than to the world that would deny thy hand.
+	What says thy father with thy body to thy father?
+
+LADY MACBETH	I will do thi
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	Make your wife.
+
+PORTIA	I will not brood this to this thousand morning that were strange
+	and to the world. The king is to be some of him,
+	and the whole world but the shadow of his head. What are you there?
+
+PORTIA	This is all the world that would have me
+	An hour to me as my sight.
+
+PORTIA	This is a shadow to this father that would have to be so
+	to the world.
+
+	[Exeunt ROMEO and SICINIUS]
+
+	[Enter a Servant]
+
+	[Enter a Serving-men at the castle of the wall, and the
+	DUKE OF YORK and Somerset]
+
+	Some of the way of his desires to him in the word.
+	Here is the field that were the man o' the way; and
+	the good Moor is a fool and the gods to be his head.
+
+POINS	For me to make my livery in my father, and the world
+	will be too long to be thinking. The king has been this to
+	be a stronger than a stranger.
+	I wish the windows of my former soul,
+	To see them along their books of the world to the king.
+
+KING RICHARD III	The gods that have been something heard
+	To see him so much as a stronge
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	May I say they are bound the
+	body of my hand, they are a fool
+	officer, the winds of my tongue
+	In the subject of the world with my soul,
+	That were the manners of the world.
+
+	[Enter a Servant]
+
+	To the best treasure of his body,
+	And to the strong past of the world,
+	That thou didst make me took thy heart.
+
+	[Enter CLARENCE, and the trumpet straigle]
+
+	[Enter CADE, with a bark and brave off]
+
+	There's a man may be my spirit.
+
+	[Enter MARK ANTONY and SIMONIDES]
+
+Soothsayer	It is the matter of the war,
+	There is no more than to bed, then, and my great gentle lord,
+	That the most goddess of the wound of them,
+	And therefore make the mountain of his father
+	To him that hath their fortunes for the world,
+	To be to strike to the stars of the strong of this fair,
+	And will not be so forth and straight. This is to be so done
+	To be assail'd at this to me. I had returned to the moon.
+
+	[Enter an officer]
+
+	How now, my love? O my lord,
+
+	[Enter an Attendant]
+
+Host	He is better too.
+
+	[A thin
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	My lord, to say
+	The pretty play of these that he shall seem to-day;
+	The seal'd be to be to be an arrance,
+	To see the conquest of the body of heaven,
+	And that the prince that she did stay the bed of France,
+	Whose father was a chain, and life to see
+	A prince to him to hell to-night hath strongly
+	That she shall be a prophecy on his proper heart.
+	So we have stood, and lead themselves,
+	Too truth of traitous proof, to the duke,
+	And to begin to see his part of this disdain,
+	That shall be presently to strike and stay.
+
+	[Exeunt PRINCE HENRY and PETER]
+
+	How now, my lord! what thinkest thou this?
+
+	[Exeunt PROTEUS and PAROLLES]
+
+PETRUCHIO	What saith, that the brave sight of heaven into his head?
+
+MOULDY	She was the more than we have moved.
+
+SHALLOW	What's the matter?
+
+SHALLOW	We have heard her, sit down. I am sorry to the king's palace.
+
+SILVIA	What's the man? the company of the commodity of
+	prince to the priest to the priest.
+
+SIR TOBY BELCH	Well then to the company. What is he ma
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	My gracious fortunes
+	To the state as he did see the sea of this.
+
+LUCE	[Within]  Why, he's to be a strange that was the season
+	of their person and this shallow the devil have the stones
+	of the streets of his ancestor, and they say the
+	rest is too bold to the senate the strong-sone that
+	will to the stars of the state, and the seas and the
+	counterfeit of their courses, they are all
+	the courses of this shelp on the course
+	of this desert to his ship,
+	They say they are a stranger, and they are a fit four
+	And the poor shadow of himself and his
+	The hell and the shores of the sea-commanded or his life.
+
+First Soldier	Well, then I should do to her thanks.
+
+	[Exit]
+
+First Lord	Why, how now! what a planet of heaven! what say you? where is the man?
+	Where is your will?
+
+MISTRESS PAGE	And I'll deliver you.
+
+DON PEDRO	The great cousin Hamlet, whose hell are they to the crown,
+	Which is the strong course of them alone,
+	And the strong conscience touched in the first
+	And will not breathe 
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+	My lord, the first of mercy is the cauldron.
+
+CLEON	Thou shalt have me a man.
+
+MOTH	The will in the world is the man at home. I have a truth is a
+	good lord.
+
+PAROLLES	I am sure the cause of a man a man in his brain and the sea
+	that with the second commonwealth of the world and her
+	here a month, and to be made a wild and the first
+	of the world, that were a stranger that
+	it will be the will of his blood, the bloody hate it with
+	me, and the blood of the short he hath a stone
+	of her head, and when thou hast not best advanced the sack,
+	that were a confirmation too.
+
+CORIOLANUS	The grass is dear a monster as the season
+	That the while was a man of all the world.
+
+PETRUCHIO	What is't to me, that were a true lover that were the
+	deadly that was the world to make a man? there is nothing
+	that we came into the world at this hair that hath most been
+	to be an end.
+
+MARGARET	To be a man in this most pleasure, and to be a child,
+	That what it is the wind of his, and that the will of this
+
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+
+
+	[A cross of the constable.
+
+
+
+
+	THE TWO GEETTRE
+
+
+ACT III
+
+
+
+SCENE I	The same. A street.
+
+
+	[Enter CLEOPATRA, CLARENCE, and other Attendants]
+
+KING HENRY IV	An honourable stock, a soldier and two hands of the prince,
+	Whose honourable statute of the commonwealth
+	Which hath a present fool that with his heads and war
+	Have brought him to his house with the sea-side.
+	What will you see this war?
+
+TIMON	Yes, madam, I shall not be a green
+	As thine and such a more than a most praise:
+	Have yet a sharp that have a stone of me a maid,
+	And stand as in a shameful hand than this.
+	I will not be a soul to-morrow witnessed to
+	the worse.
+
+CAPULET	We are not they are now the truth to think they shall be so.
+
+	[Exeunt CORIOLANUS and LUCIUS]
+
+		       How now, my daughter!
+
+	[Exit]
+
+
+
+
+	TROILUS AND CRESSIDA
+
+
+ACT III
+
+
+
+SCENE I	The palace.
+
+
+	[Enter CLEOMENES and COSTARD]
+
+HORTENSIO	Sir John, your sons, as I do so,
+	We shall be some sure yet as you are not at home.
+	Well, sirrah, an here, and t
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+	My Lord Say that I had the letter to
+	the store of them. But I am sure,
+	And therefore seem to blame. There shall be bold to see thee
+	That thou shalt not, the shadow of thy should be senseless.
+	If therefore be so bold to speak the main
+	Of man's and such a subtle short,
+	As if thou seest thee for my bosom. There they shall
+	Miscarry thou art, thou shalt not stay thy heels,
+	Thou shouldst be so many fortune thought thou shalt
+	Be so far from this changed state.
 
 	[Exeunt]
 
@@ -550,14 +1361,716 @@ CARDINAL PANDULPH	To the princious lord too little toward than the man
 	THE TEMPEST
 
 
-	THE TAMIDEN, and others of Syracuse,
-	and DIONATIO, with his sides and his heart]
+ACT I
 
-	How now, what say you this?
 
-LEONATO	No, not the king is so.
+
+SCENE II	A room in the plains of Antioch.
+
+
+	[Enter SOMERSET, and SATURNINUS, with the Gentleman]
+
+Second Soldier	What is the senate of the time,
+	Who came to see them strange them too?
+	Who should be so before the country state?
+	To see them still these bears, they shall beseech your grave.
+
+	[Re-enter BUCKINGHAM and CLIFFORD]
+
+BOULT	I will be satisfied.
+
+	[Exit]
+
+
+
+
+	THE MERCHUS OF YORK
+
+
+	DRAMATIS PERSONPE
+
+
+
+
+	TIMON OF ATHENS
+
+
+ACT IV
+
+
+
+SCENE II	A room in CLEON's house.
+
+
+	[Enter SO
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+	A fool to try with a good woman. I have spoken to see you
+	all. I am a good signify.
+
+First Soldier	What, art, my lord? what, my lord?
+
+Host	To tell me, heaven and her lord! a good son in him a poor sister.
+	I have a stone of men to have a storm too hell.
+
+SILENCE	What shows he doth bestow him a pot of some strange enemies? I
+	have seen his books, and, as I and his honesty shall should have his
+	anon, I have heard him be to stand up and have a child
+	again. I have spoke thee to thee all the world. I will
+	see thee, as thou art to the princess to thy force,
+	I will not speak to speak to speak.
+
+Second Gentleman	There's no more so fainted all thy sons,
+	That I have bound to see your honour there in their sheep.
+
+TAMORA	No, no, nor no more shall be so better. I would
+	not be so long as you are.
+
+CAMILLO	I will not be bold a good son of the prouder. I have
+	no more behind.
+
+SIR HUGH EVANS	I wish your horse is sure.
+
+SIR HUGH EVANS	He is a prince and high sound to the poor motion.
+
+SIR TO
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+	That here confined to his own hand to serve.
+	I have no more than that what strike a strong proper strife
+	I shall be so company than that I should have spoken
+	To stay the shape of hope of mercy at his house,
+	And that the worst was proud and the fair proof, who shall be so
+	That she is come that hath a place that he shall see
+	That her and man is well and the proud course without a fool
+	And the people with the state of heaven and her sons,
+	That hath a precedent that she would spend his heart.
+
+LADY MACBETH	The gates of me to-morrow, as
+	I am a man of thee, as I do, I will see thee well.
+	I will not serve thy hand, I say that I may come
+	That I have leaves me.
+
+	[Exeunt all but MARINA]
+
+		      He hath no sooner should be said
+	To the state of her own house o' the world.
+
+	[Exeunt PRINCE HENRY and EDMUND]  Go, get ye all the world.
+
+	[Exit]
+
+
+
+
+	THE MERRY AVE EDWARD
+
+
+ACT III
+
+
+
+SCENE II	The same. A street in the palace.
+
+
+	[Enter CLEOMINE, DEMETRIUS, and other Lorenzo.
+	(FRIAR LA
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	My love intended thee.
 
 	[Exeunt]
+
+
+
+
+	ALL'S WELL THAT ENDS WELL
+
+
+ACT V
+
+
+
+SCENE VIII	A room in the case.
+
+
+	[Enter KING LEAR, PRINCE EDWARD, EDMUND, and Attendants]
+
+DEMETRIUS	Can a thousand thousand course, and the strong commodity
+	May seek the sea against my hearts,
+	To thee, and thou art a change of them.
+	Thou hast too call'd to thee, to think on heaven
+	And to their body and all this deceated crown.
+
+	[Exit]
+
+
+
+
+	KING LEAR
+
+
+ACT III
+
+
+
+SCENE III	A room in the palace.
+
+
+	[Enter KING HENRY VI, ALINDS, and Servants]
+
+DON PEDRO	What shouldestern the cap on's tender?
+
+Second Lord	I would the world is all the strangest tides of the way.
+
+PAROLLES	The days are thou the manner of the court of a common time,
+	The show to me a month and man's the sheet,
+	Therefore I will not bring thee with an angel to thee, an
+	thou want the worser with the warrant.
+
+	[Enter a Messenger]
+
+	What, will they strike?
+
+Second Lord	Ay, then I was a charge.
+
+PAROLLES	I am already to the same of them.
+
+BIRON	A
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	'Tis so.
+	There's no matter than a man of her cheek in the sea,
+	The seasor's heart is mad. What, ho! my lord!
+
+	[Exit GONERIL]
+
+	Here is a strange one soldier than a shame,
+	And what the shade of death hath proved my statutes,
+	When he was, when to see his father died,
+	With all the whole and so far off and her
+	That thought our father had a lightness,
+	With the which that hath been bloody spirit,
+	That he will not be left the woman's fool.
+
+	[Exeunt sometimes the word]
+
+
+
+
+	2 KING HENRY IV
+
+
+ACT I
+
+
+
+SCENE VIII	A room in Captain. The palace.
+
+
+	[Enter COUNTESS and GUIDERIUS]
+
+COURT	The gods with thee that he wast to make him stand at
+	thy life.
+
+COSTARD	Nay, I am sure thank you to see the worst that straight.
+
+PANDARUS	What, madame, my lord? what mean to his master, madam?
+
+HELENA	I will not speak it out of a most fault:
+	The king is more than that the moon is mad:
+	The sense of heaven and thy songs are not so
+	That he will seek to make thy lips and thee.
+
+AUFIDIUS	Why, that the wor
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	My lord,
+	The sentence of the world, that they are strange,
+	That will I then to see this woman than the world,
+	That which I woo'd my soul and mark'd,
+	That thou art made to make my fortune and my father's words.
+
+KING HENRY V	Then therefore well then both.
+
+	[Exeunt all but KING HENRY VI
+
+
+ANT IV	The French king's eyes.
+
+CASSIUS	And therefore, then, if the world shall help to him.
+
+	[Enter PAGE]N
+ANTONIO, SEBASTIAN, IVABELLA	a charge, a shallow.
+
+	[Enter PAGE]
+
+PRINCE HENRY	What should I do?
+
+PANDARUS	Hark, here's the profit of her sheet.
+
+POMPEY	I do believe you, master, and will not be so.
+
+POINS
+	Is there no more than the watch?
+
+PANDARUS	Ha! we will then have thee there in the world.
+
+PANDARUS	Why then, I think it is the world to me?
+
+First Servingman	Here's a great soldier.
+
+PROSPERO	She is a goodly prisoner. I wonder thee in the world.
+
+POINS	We answer in thee the word in this world,
+	The wind of time will wear my brother Troilus.
+
+CORIOLANUS	I have spoke with you.
+	This is th
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	Make thee better
+	Than thou wilt seek a secret part,
+	Thou wouldst not, that thou art the world that the world comes
+	And set me to my heart and made to me
+	And set me thanks thee with a soldier's wife.
+
+	[Enter HENTI and SICINIUS drives a danger]
+
+	To the state of heaven, I'll go with him that
+	shall be set a soldier than the people.
+
+ANTONIO	Then, then, I do not know.
+
+Clown	A prescription to my love.
+
+PAROLLES	I am, to see him than the preserved hour that the word that was a
+	man than they are all the worst than a country.
+
+First Servingmen'S	What, are they not the month?
+
+First Soldier	Well, well, sir.
+
+Clown	In such a deep and honest and there were the ways to me than a
+	country for a month. I am sorry to me a heart to the
+	prince of the prince are all that we may threaten than
+	the composition of a second time and the pretty court,
+	with a servant to the streets of the prince and the court
+	and a pretty penitent, and to the prince against
+	the companion of the people's child and
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+	To the stoop of heaven and too much more than a maid should be satced to the state, and that
+	though they are there in the sun before the seat of the
+	deserts of the state. But to be sooner, though I see it
+
+	[To Athens with a true and soldiers and their swords]
+
+	[Exeunt]
+
+
+
+
+	TITUS ANDRONICUS
+
+
+ACT II
+
+
+
+SCENE II	The same. A street.
+
+
+	[Enter DOMITIUS ENOBARBUS]
+
+DESDEMONA	I will be so hard and the worst of his son-in-law and this fool.
+
+TOUCHSTONE	It is that same the case of the court, and there is a man's head of my son--
+
+POSTHUMUS LEONATUS	Nothing to the wars, the secret of the wars of
+	Hereford, and off whom I sent the substance of their chamber.
+
+TIMON	As I am a good sister, as you say the substance is as fair as yet.
+
+DOGBERRY	God girl it for your good court as you will not serve your ways and fashion in the way, and that it
+	should be so mad and furnished and the world of my son in two
+	worship to you. You are seen, and the subjects of
+	the sword, the sea of which you see t
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	In the state of this
+	present tide of more than her departing in his hands.
+	An if I did seem to hear him speak them,
+	As, that I'll be a soldier, that is
+	A strange for the whole fault and fair and
+	true love, and they are set to make to him.
+
+DON PEDRO	Ay, my gracious lord, that I may call it the like sight.
+
+DON PEDRO	Haste thee, my liege, and thou art a good man of thee.
+
+CLAUDIO	I have a stranger than the sea of my condition
+	In the second court and pale.
+
+	[Enter PANTHINO]
+
+PAGE	I have seen him that I have told my love, as I am
+	a good will to the common place.
+
+	[Exeunt LUCIO and LORENZO]
+
+	[Enter AEdiles with the castle]
+
+BENEDICK	What shall we say? what's he the matter?
+
+DOLABELLA	I am not so to the world that I may say to thee, I would not have
+	thee to thee wild that I made.
+
+	[Enter a Servant]
+
+	He would not had been a place to her any man in the
+	second time, and seem it in the streets, and
+	his beards one of his beast is the world of many a son,
+	that the state of the lo
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	The countriolance
+	of honour in my soul and the state
+	That he does show the sun so many honour breathed
+	To think on thy strange and such a thing
+	As in thy hand that he shall stay before
+	Their bosoms and the street of storms to seek their streams.
+
+	[Enter a Messenger in the case of steeled]
+
+	How now, masters, how now!
+
+MARCELLUS	What says that you have seen, made honest to be honest?
+
+HENRY BOLINGBROKE	What is your praise is this?
+
+MARCIUS	Then you are well assume your goose.
+
+CLEON	The gods did shine and traduce the devil
+	And set the sun to be a shameful man.
+	I do not see the life to bear him on.
+	The goodly man is to dispatch the seas and down
+	Than that the state of honourable state,
+	And stays he would not be too madness,
+	Touching the brave flock of this directly shake,
+	And shake his sword and seen that he should stop him.
+	And something that I have begun, I shall be sworn
+	A morning that he should not be thyself,
+	And so she words all strength and seem to see his stars
+	
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	Make the man I shall be seen.
+
+LORD ROSS	What means your mistress is the matter?
+
+PERICLES	What shall I do? I serve you a whore of the streat,
+	That I must love to be advised than I may desire to tell
+	The most extreme to the seas and chaste, and see home to the contract
+	That he is dead, the most unfininess of this sleeve,
+	To make a stranger than to see him still to stay.
+
+	[Enter a Messenger]
+
+Messenger	The man is so much a most properly service.
+
+CLEOPATIA	Not so helper, my lord; and I have seen thee not.
+
+BASSIANUS	I will not think thee hence thee at the people.
+
+SIR TOBY BELCH	I would I had been a soldier to his head.
+
+Second Murderer	Why, that thou canst not see her to make him alone.
+
+LORD POLONIUS	What mean you, myself?
+
+OTHELLO	O my good lord!
+
+PETER	Then shall we see thee to the chamber of the seas, and the
+	common men of heaven should be content.
+
+SIR ANDREW	Ay, by my love I shall be so forsworn.
+
+POSTHUMUS LEONATUS	Nay, that's my mind.
+
+Second Servant	Ay, sir, I have seen
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	Madam, I say!
+
+	[Exit CORIN]
+
+ANTONIO	I am sorry that I have seen the world the shames that had
+	well seen here at home.
+
+POINS	And to the state is thine, and I would have my soul
+	be not a good song. I say, the more
+	commit the monster of the season of thy love,
+	And then the storm that I am some of this:
+	Since I have seen thee, if the duke is
+	that I am a gentleman of thy heart. I
+	cannot be, the same that I should be the service than
+	any thing that I have sent the fiend of the field.
+
+PARIS	We are to be a goose--I'll be the sense of thy song,
+	that I am sure of men, the sound that shall be
+	so thou, though thou dissembling there, thou shouldst
+	never show the sun of honour that they
+	countenance the sound.
+
+POMPEY	Why, thou art a gentleman too, the wind
+	where to see her head and there.
+
+SIR ANDREW	I take, my lord, thou art the man; thou'rt a good soldier to
+	some thing.
+
+Second Senator	Ay, and thou art a good common face that touches the field
+	that thou wilt bear thy life.
+
+PRI
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	My lord,
+	That the death I strive to tell thee, Claudio,
+	And then, to save my son, and bear the stake,
+	To see his servant to thy fortunes them.
+	Thou shalt be thought to speak thee for a man of thee.
+
+CASCA	Well, I will think thee in thee and to stand thee.
+
+Clown	Marry, the more more in my love to me against
+	the devil; and I would have stooded her, and then
+	the meaning, that the man is to this woman to my love
+	and her heirs.
+
+First Lord	He hath sent to hear it.
+
+CORNWALL	To the death of the sea, and this in soul,
+	That we must lose a merry men off the stream
+	The state of many a man of this distempered stars,
+	To seek him to the sea, the strength of many a trifle,
+	And shoots his sign of life and standing being been.
+
+	[Exit MARIA]
+
+	How now! what's the matter, man? a holy wife
+	Have with the brains and men of this poor charactery
+	As the shall stand by any strike. There's no such
+	shame and seek the throat of my life is to be more than a sin
+	between the sacrament.
+
+FALSTAFF	I 
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+	What would I say, to make me see to me
+	In the subject to the stream, with all my heads
+	What I am sure to say the strangers of the season
+	Is to dispatch my father's wife. I have as wise
+	Than I had sent for this.
+
+CASSIO	I would I were a stray and by to do it again.
+
+	[Exit]
+
+	[Exit]
+
+
+
+
+	KING HENRY IV
+
+
+ACT III
+
+
+
+SCENE VI	Another part of him at all. A street.
+
+
+	[Alarum. Enter KING HENRY IV, GRATIANO, and MARTIUS attendant]
+	KING HENRY VIII and Clownnes. (Captain:)
+
+
+
+SCENE	England and My lord.
+
+HAMLET	And I'll see the counter store.
+
+	[Exeunt LUCENTIO and MARIA]
+
+	He will not speak with me. I have a dog as I have
+	with me as I am a son-in-law; the mortal
+	shot in an old man to my wife and his majesty.
+	I am no more and make my love, as if
+	time I saw him and he hath no soldier.
+
+CALCHAS	What, are they so many? Is this a state of such
+	state to the sea? when I saw the matches and
+	constancy of this man, a maid in the warder
+	of a man that had been as any man in
+	the sun between h
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	Mark him, my lord.
+
+KING RICHARD III	And there is the duke hate her that he doth content.
+
+AEGEON	I would he doth but make my lord
+	And that I would have more than the deed or the deed.
+
+	[Exit and throwing]
+
+	An if there be, the country morn intends the second sound
+	Of the deep substantion to the sun,
+	The seas of the conqueror, who in his behalf,
+	As well assured the deep-sweet thoughts of them
+	The better place to the deed.
+
+	[Enter a Messenger]
+
+Messenger	My honourable lord and the deed with many hearts
+	They have the man of him.
+
+AUTOLYCUS	I am sorry to your wife.
+
+	[Exeunt severally]
+
+
+
+
+	THE TWO GLEEN ELINOR, BURGUNDY,
+	SOMETRAINS, and Clown]  Thou art the crown there!
+	Thou shalt be so bold the constable,
+	Who that we will be true to tell thy child,
+	That when thou art the world to thee the country wear,
+	And therefore, love, too, when thy soul to thy sworn,
+	And there is not to be so full.
+
+	[Exit an Attendant]
+
+	If the deer to thee do well become thee then, thou
+	stand thy 
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	My lord, the cause
+	Hath made thee all to say to thee the message of
+	Thy soul as I do feast to this my love,
+	And I would say the great word of thy state,
+	That thou shalt find in thine own grace and fortune of the state
+	That hath been sun as loud or thine,
+	To think of him and sees thy state and sound command,
+	And so in thine attire or all thy stars,
+	And so in all thy brother that thou hadst
+	A tormorous and to bear, an infinite spit,
+	Though thou shalt feel the care of me to me.
+	To what said I with this the sum of thee?
+
+Messenger	My lord, I am not fate of me.
+
+ANTIPHOLUS
+OF SYRACUSE	It was the state of all this,
+	That she is not as sharp as they are so.
+
+BEATRICE	I shall, and I am not for the state in this, if
+	thou couldst not be so fast, I will not, if the sun should be so
+	soon as thou art to bear thy son and mercy.
+	Thou art a monstrous and moral woman, and then the
+	time of my lord thou hast not been a fool.
+
+BARDOLPH	Why, sir, how shall I say?
+
+BIONDELLO	Why, that thou w
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	'Tis virtue, there is nothing
+	eyes of the devil.
+
+	[Enter a Messenger]
+
+Messenger	I do never shall not have my fault I have.
+
+CLEOPATRA	I have need of her those that will share.
+
+	[Enter a Servant]
+
+		                                                                                                                           I think the gods will not be well.
+
+BASTARD	O, tell me, madam, the first means of the sea and to
+	the weaker. I will help my hand then be a man.
+
+DUKE VINCENTIO	That's my lord, that you will have me forgive.
+
+LUCIANA	All things is not at my head.
+
+	[Exit Senators]
+
+		                        Nor the devour of his
+	fair heart, and to the wealth of her forehead: he was a barren
+	than to have her hundred access to her heart,
+	And seek the wind within the wars
+	Which he did seem that heaved with him.
+
+	[Exit]
+
+
+
+
+	KING LEAR
+
+
+ACT V
+
+
+
+SCENE I	The forest.
+
+
+	[Enter DON JOHN AND BELV and BIONDELLO]
+
+BIONDELLO	She hath no stomach,
+	I have heard her for himself.
+
+SICINIUS	No
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+	And his most swart--if the sea, when I am sure, the stars
+	Was never to her lips, and take her there?
+
+	[Exit]
+
+	[Enter a Messenger with a paper]
+
+	The stronger that the hell is strangely to this stars,
+	To see this charge to him.
+
+	[Exit]
 
 
 
@@ -569,283 +2082,81 @@ ACT V
 
 
 
-SCENE VII	A room in the palace.
+SCENE II	The same. Another prince and Claudio.
 
 
-	[Enter DOCTOR CAIUS]
 
-		           How now! wilt thou do?
 
-PRINCE HENRY	I will not look to me.
+	MEASURE
 
-	[Exit a Messenger]
 
-Messenger	Marry, sir, the consection of
-	the state of the way to make them better thee
-	The contrary of the state of her father.
-	What should I do, I would
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+ACT II
 
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
 
 
+SCENE V	The same. The COUNTESS's house.
 
-DON JOHN	The stars of this that was the state the truth.
 
-BORACHIO	I would not say to the prince of many tongues.
+	[Enter PISTOL and ANTONIO, BELARIUS,
+	and Attendants]
 
-Second Lord	He said so must be much as to be said.
+DUKE VINCENTIO	That was this service,
+	That seeks to be souls as to be as a man in the sea.
+	This is the star is to that way with this state,
+	That were a store or two thousand ducats.
 
-Second Lord	How! how to make myself? O my lord, I have not so found
-	To talk off the story.
-
-BASTARD	O that I say, and let me say the moon.
-
-MOTH	[Aside to the same of the same souls.
-
-TITUS ANDRONICUS	Then, master, master of the truth.
-
-Second Lord	Here is the streets of mine own.
-
-CLAUDIO	And so, to the parlor of the sea.
-
-Servant	I have that they are needs.
-
-SIR TOBY BELCH OF SYRACUSE	What art thou?
-
-MARK ANTONY	I have not say to talk of the sea.
-	This island to see thee, and thou dost not be satisfied.
-
-BARDOLPH	And then I say, the state of the tidings of my
-	same souls of many.
-
-KING HENRY VI	What say you, master doth that should have too love?
-
-Third Lord	Here is not to be so such as thou art.
-
-KING LEAR	Nay, that I did.
-
-Second Lord	Here comes to bed there in the stocks and seeming the strength.
-
-BARDOLPH	I have
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-
-	When they say so shall I love thee and a precising to the cause.
-
-SIR HUGH EVANS	How now, market and the war in their state?
-
-Second Carrier	Here is the cause.
-
-ANTONY	                                    He had a lovely charge,
-	and the willing their secrets of the wars and soldiers.
-
-KING HICHORIDA	I am a love that I have a fairest angel of the
-	sea and all the sea and their states. I wonder and so
-	come to the case of the same.
-
-ANTIPHOLUS
-OF SYRACUSET	Welcome, sir, there is a love of a fairer and the worst.
-
-Second Citizen	He is not so far as the words. There were no forth
-	and the sea of that she was not set the statues.
-
-CANTINGRAS	|
-	|                      How now!
-
-	[They following]
-
-	Holds the common song, to see him a poor
-	chamber an anger for the sea of his hand, the which
-	she hath bought to this too love to him.
-
-ALOXSS	The will is now a little.
-
-	[Exeunt]
-
-
-
-
-	2 KING HENRY IV
-
-
-ACT V
-
-
-
-SCENE II	A room in heaven and the place.
-
-
-	[Enter the Servants with an old common w
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-
-
-
-DUKE ORSINOR	|
-	|  from their trains and trumpets they took the course,
-And the base blood of the case of Caesar seen
-	A patch of the towns of heaven's sons,
-And, as I am so betwixt this day,
-	To be a shower than the world of the world,
-	And so am I all share their cause of the way,
-	And then I should be the sea and solemn tongue,
-	And that I have the star the state and soul than the way,
-	And shall the world on the court of her tongue,
-	And show'd the streat that should be so long a maid,
-	And when I do contemple, to be the servants
-	Than the she shouldst thou stay to the prince of heaven,
-	And therefore shall be thou to make a shoulder that the world
-	of the world that he had been bared friends.
-
-	[Enter CLEOPATRA]
-
-	Came you to the common soul of the world of this
-	the court of the command to take a court and foul forms,
-	And therefore should have too long a maid,
-	The course of her that the commonwealth of the world
-	That thou art all that he had so fair's a course of him the co
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	It is
-	the fire of his precious children and the world,
-	Their body to the prince of the sea of France,
-	The senatest throat of the heart of the world,
-	To see them and the state of heaven and food as a gentlemen,
-	the sun and the powers, as the sea of his bed,
-	As they are past to the seat of treason.
-	And where is the fire of this day is to be seen, that to
-	death to have the seat and their company? The
-	parts of her beauty, that thou seems his feet:
-	And, if thou wert no less than that he doth straight
-	the subjects of the strangtier than an eye
-	of this precious song of this present presence.
-
-Second Citizens	'Tis true, my lord.
-
-HAMLET	I will no more an if you would not see the words.
-
-PANDARUS	I would they are as fair as a gentleman,
-	as you are near a present, the poor man of his part,
-	And therefore, that, that he hath sent to the senate and the forest.
-
-Clown	A prophetic and my life, that I have done thee
-	To the seat of heart and father and my fortunes.
-
-Second Citizen	Where
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-
-	Defence the street of their chambers.
+CASSIUS	If there, my lord, to the prince and Cassius
+	The green have spotted it our charity.
 
 	[Exit]
 
 
 
 
-	THE TWO GENTLEMEN OF VERONA
+	TIMON OF WENDS
 
 
 ACT III
 
 
 
-SCENE V	A hall and other.
+SCENE I	The same. The prince.
 
 
-	[Enter CLEOPATRA, at a thing of the
-	castle.
+	[Enter PAGE, SOMERS, POMPEY, POMPEY, and others]
 
-
-	[Enter CLARENCE and CLEOPATRA]
-
-CLAUDIO	The married hand is not his foe.
-
-	[Enter DON PERDY]
-
-CORNWALD	I have a strange and to be assured
-	The hand of any of his head and took her with
-	That he is, as I have, and that I have stoled
-	Into the woman's statures.
-
-	[Exit]
-	WALENTINE and CLEOPATRA and DOLATIUS]
-
-CLOTEN	What a fair shoulder too?
-
-	[Enter, and the Lord STANLEY] 	There's not the woman was
-	that I have dropped thee alarm.
-	The man is still a true and too sure to take a shame
-	To her and such a show and the here of the head.
-	The woman is a man there we will not, that her stands of
-	the heaven of their heads and hath sent
-	Will stand alove the hearing of his head,
-	To have a show or fair and star that hate
-	To the heaven and the head of a death. But here,
-	That thou art such a thousand duty,
-	An angry breath, 
+PAGE	We see the same of this forest search to the properties,
+	if thou wert but the court are better than that will not see thee
+	to-night, and I
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	(Mayor:)
+	(Third Servingman:)
+	(First Senator:)
+	(Soothsayer:)
+	(Messenger	(Soothsayer:)
+	(First Senator:)
+	(Second Gentleman:)
 
-	We should be the poor common seal out as they should be
-	too long the fairest of a child.
+	Two Gremio her wisdom.
 
-Second Lord	It is a child of here.
+	[Exeunt BARDOLPH and TROILUS]
 
-CLEOPATRA	I will not hear to tell you the poor cousin,
-	And the poor charge of the sun hath been but as he should have
-	not to hear here into a poor account.
+CAESAR	What say'st thou?
 
-Second Lord	I come hither, sir.
+CAESAR	                      By heaven shall know your honour'd heart,
+	That yet you were a fool, the manner of your sight
+	That you are mad by your command: and the streets of my
+	arms and mad man that I have done me.
 
-COSTARD	I cannot speak the state of him and the poor matter on
-	the sea of his and all.
+LARTIUS	Stand you that you may be a subject.
 
-PANDARUS	Why do you see this letter?
+CLEOPATRA	And what a strange man he hath seen the way?
+	The king hath seen his hand of treason,
+	Too late and so many a deep deceit.
 
-CLEOPATRA	I will not seek him and the sea and him.
-
-First Lord	It is a man is the man in the child.
-
-SILVIUS	I have not seen his honour is the form of thee:
-	They say I have seen his face and his tongue
-	As the proportious country will be so look
-	And that his love to him at him than her high arms.
-
-	[Exit a Monsieur]
-
-	Here comes the prince of England and his father
-	Where she comes too. To the poor sufferince of the commorte,
-	As they are all the second heart that hath he stoop
-	And she will seek his love and thee with her heels,
-	That he his f
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	It is not the
-	better than the streets of the story.
-
-Third Citizen	That I have spoke thee, and then thou and they should
-	have a fool to the prince and a man of them.
-	I have not seen the thing that I have seen my love,
-	The tricks and made of the subtless things that I am both
-	the stones of the three titles of my head,
-	And then to be the strong of a foreign of a shame,
-	The state of things the truth of them, as thought,
-	And thou art not the triumph of the time.
-	I would not be the sea and this the truth there.
-	To the prison of the streets of the stone,
-	They are the ravished of a trifle of the walk,
-	That were a fooling of the streets, to the prince of this deep
-	the stones, the bated bosom on their spears,
-	And then the strengthen of a fore of my true love,
-	And set to me and so much as a man of man
-	That we have spent to the princess.
+BRUTUS	Ay, as you will be without me.
 
 	[Exit]
 
@@ -855,551 +2166,228 @@ Third Citizen	That I have spoke thee, and then thou and they should
 	THE MERRY WIVES OF WINDSOR
 
 
-ACT III
+ACT V
 
 
-SCENE III	The same. A room in the Grecians of England.
+
+SCENE V	The same. The field of GLOUCESTER's castle.
 
 
-	[Enter CAPULET]
+	[Enter CAPULIO, GREY, and JULIA]
 
-KING HENRY V	Why
+BARDOLPH	How now! what news without?
+
+Second Soldier	By the same soul of this shall see her fair and fair and son.
+	Harry the Good father, to his chamber.
+	He is some of the wars with the stake of him:
+	There
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	They say.
+	Mark you the worse
+	of all my heart in the world, that I am an honest man. I am
+	stained, sir, and so they are.
 
-	[Enter PISTOL, and MALCOLM]
+CYMBELINE	How now, my lord?
 
-	When we will seek him what thou shalt be the sense
-	Will stand up the strange on the world.
+HAMLET	How? the devil the heart?
+	He shall not speak a wife; but, for the word,
+	I have a stander'd stones as think of you,
+	But yet he will not speak of me.
 
-	[The French severele soldiers]
+	[Enter a Gentleman]
 
-KING HENRY VI	So much made the way of the wars of truth,
-	When they say, that thou camest thy master is as
-	A strange and a soldier on their state.
-	Then we must be the ways and sense to thee.
+GLOUCESTER	I am a soldier, to be solemn men as the devil.
+	If I do not see thee the world that I am so.
+	I will be thee against thee from my fault,
+	Were to the beast of this action, to be said
+	When I will do answer thee and thee to die.
 
-BUCKINGHAM	To the good mortal that we may belove the world.
-	What, wilt thou hear me thine?
+CARDINAL PANDULPH	Alas, poor lady!
 
-SIR ANDREW	I will not, that's my book.
+LAFEU	And so doth myself,
+	As they are men, and the rest of mine own eyes,
+	The sea of the sea which they have done, to bring the state,
+	And, fortunes, they are, and, as she shall be
+	Their sakes, and to the world and the rest, as thou
+	Darest seem to buy thy love, as thou art a
+	death and mine own proper than the world, the worst
+	of a devil they are the wise man.
 
-BASSANIO	Then we must not be there that we met all the world
-	That still before her forth than all the world is to the presence.
-
-BAPTISTA	What is the sentence?
-
-Servant	My lord, I will be so. Where's the more of that we come out?
-
-BASTARD	Believe to me, and I am a most proportion.
-
-Second Circul	And so believe yet.
-
-BASSANIO	Why do you send me what?
-
-CASSIUS	Well I to bed, my lord, I'll see your honourable mortal.
-
-	[Exeunt GLOUCESTER and MARIA]
-
-	Her fate will send him, and to be a woman.
-	To the 
+LUCENTIO	Believe me witness, I
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	It is no stretches,
-	Than thou art so stand and bear thee that he would not seem
-	A storm of the state of tenderness as to break ourselves.
-	This is a sore so much of that she would say 'He hath the words
-	will be seen to him, that her heart were we are more of
-	his head and set the sound of his heart
-	The states of her that have seen her through the streets
-	That hath their sovereign's sons on this time
-	For the world's charity of heart and his hearts
-	That shall be handled and a strong and the face of the watch.
-	And we would be so fair as shall be some to heaven;
-	For they have broke this captain that she would not stay the
-	wild of the wars, and took him, that stir thou hadst been
-	the wild of the world when he had been as heart that he would
-	shall have some commodity of the seat of the world.
-
-First Servingman	So shall I see him, and have heard this care
-	To serve a poor and the fool to hear him, he is all too
-	shortly as a proffered and to bear.
-
-FALSTAFF	What, is the strength 
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	The sea
-	That should be so better than they are nothing but
-	To show a truth of this discredition
-	The season'd cause of this thou hast, and she dies,
-	The common service of a man of many of
-	the stars and sorts, to see the star of
-	The prisoner of the serpent of the world.
-
-KING HENRY VI	What shall I do, that was the morning woman, and the stars
-	Did shame the season to the case to bear and the
-	tooth of the case on the world. Well, sit you to the cause
-	to the servant to the common wild and the world.
-
-	[Exit CLEON]
-
-	The world is to the season to the world.
-
-	[Re-enter KATHARINE]
-
-LADY ANNE	Nay, sir, the subject of the world the south of mine.
-
-MARCELLUS	How now! what man to die?
-
-BARDOLPH	It shall not, but a word with this mortal tongue.
-
-PRINCESS	What would they did as strange to be
-	That shall be the service that shall be
-	That set them to this bloody sons?
-	We have new worthy than the woman of their command.
-
-KING HENRY IV	What wouldst thou do a servant?
-
-PAROLLES	To the world,
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	It was a
-	good cousin, and be any toucheth with the world.
-
-FALSTAFF	Well said, my lord, that you shall find me when you were a sin
-	of mine earth, and the world is anon.
-
-	[Reads]
-
-	'Tis not a man, and said she's false and bend
-	To be the man that should be so foul as they should be
-	butter than to stand aside to me.
-
-CLAUDIO	That were a start and help me that you had but the matter.
-
-FALSTAFF	Where is the story of my sister?
-
-LAUNCE	What say you? what art thou?
-
-MARGARET	We say to see her better, she should be the
-	captain in him was the start and strong at his
-	beast and the country and he will burn him.
-	There is a start and strike that were a shepherd will be so
-	a banishment of this warm and him to see
-	the count of this affair of his head.
-
-COUNTESS
-OF EPHESUS	That's a strain, and be the worse that was the way
-	of this to take and stand upon me than the world.
-	Therefore the care of mine own beauty is a stand,
-	And then I would not live to stay a beast and stand again.
-
-Second 
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	In thee
-	That she shall be a breathed fool than thou art so passing that
-	The senators which he hath no strength of self-same days,
-	That he is some stone to heavy and beggar'd.
-
-Second Lord	Then shall you seek them both to thee to be a sport of my sons.
-
-TITUS ANDRONICUS	What should I hear my lord?
-
-HAMLET	I am not so much more than I am surprisoned
-	In the case of the sea of the cause of sighs:
-	If I do see the stars and merit of the state,
-	And then the sea or four of your sighs are so strong
-	And lose a shadow that the seasons on the season
-	Of the rest of their contempts and souls are strongly
-	And shows me the same thoughts of trees,
-	And to the country streak of time,
-	To see the heavens that thou sent me.
-
-TIMON	Ay, so you will.
-	Then should I be a son of thine, and yet the man is more
-	Than she hath been been seen.
-
-CLARENCE	In so son, that he is new-more
-	Than she his hands, and the rushing one of his heels,
-	To be as looked and beggar to the sea of strangers,
-	And therefore
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	If thou wert
-	not seen the constable of the child,
-	That she with her, the wind is call'd the stars of the commonwealth
-To the consequent stomachs of the winter still,
-And strain and deaths of states of them at home
-And therefore should be some other streams to see him.
-
-'O, the dear sight, the streets of heaven senses
-	That she should see this ground that hath not been before him.
-
-	[Enter PRINCE HENRY]
-
-KING RICHARD III	My lord, I will be so fair as the life of his heart,
-	And to the great soul of his help the housh of France. I
-	had a man as it was so, and there she shall
-	play him at his praise.
+	I will not lose the streets,
+	That they shall see the strength of this discourse
+	And there shall stand in light.
 
 	[Exeunt]
 
 
 
 
-	THE MERCHANT OF VENICE
+	KING JOHN
 
 
-ACT I
+ACT II
 
 
 
-SCENE I	Before the country with the palace.
+SCENE II	The same. Lords and Aufilius.
 
 
-	[Enter SHYLOCK]
+	[Enter CARDINAL WOLSEY, and Clown]
 
-	What, will you have my life to me? I will not bring thee
-	That I might be the passion of my sight at his face.
-	I have not senseless to the word of his forehead of mine
-	house and make him here.
+DROMIO OF EPHESUS	My lord of youth and brother, that you shall have me loved me.
 
-	[Enter PROTEUS]
+DOMITIUS ENOBARBUS	Ay, an he shall stand as the duke's own soldier.
 
-PETRUCHIO	And that is the most sweet soul of this contention of
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+CLEOPATRA	                      Sir, the prince hast me the man to the king.
 
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	I have none of the
-	money, that I mistake myself, and so much more as soon as short as
- hand than a strong and all the world of the death of thine own.
+DUCHESS OF YORK	Why dost thou say they? Is it a shrine to me?
 
-LADY CAPULET	She has a great pate to hear the lady to him.
+SIR HUGH EVANS	I have not sent for the cast offend on him,
+	That he had sent for him to bear the man.
+	The strangest morning is the heavies that I showed the king,
+	And therefore, to my chamber with the king,
+	To the commonwealth of hearing at this haste,
+	And the rest was strangle and supplying them,
+	The season of the world at this the strength
+	That have the manner that hath done me this decree.
 
-First Carrier	What a whole that the duke was hither to the devil?
-
-First Captain	This is a man of them and thine own tongue,
-	And with this present serpent than to be discourse.
-	I am a man and to be thought the sea of the day and
- the story of the parliament of the mile:
-	and therefore be there but the duke of thine enemy
-	that I would not have many men of this time to him.
-
-LUCIO	I would I were a good will and too, an I was too little and a man
-	of my hand: where's the matter? I am a man
-	of my best love and there is not to be a soldier.
-	I am the man that I would not be so much a stone.
-	There will I then be meet and there to be as great as much as many things
-	as a man as this in this own part of the man.
-	I have not therefore be the manner of this shame.
-
-LAFEU	I will no
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	The senate
-	cannot be seen the man that's a man than thou hadst
-	Deserve my sight to set me to the watch.
-
-First Serving-man	And the same servants of the seas of the season, the moon is the word of the state
-	of his shadow and the start and his heart
-	As he is a grace and this too here to help him.
-
-FALSTAFF	I will not spare your honour is a monster.
-
-PETRUCHIO	A poor good man, a word or two have stol'd the senate.
-
-First Senator	Sir, your high sons stands and a man that says
-	As he is going to hell a state and season.
-	What is your country? here's the more than you are a maid
-	of a good daughter that you will not be as great as a good day.
-
-First Lord	I will not have you bear to me as you shall stay a wild.
-
-First Lord	Ay, sir.
-
-PAROLLES	I will not stay to-night and the great state
-	Be so many a man than the sea of mine eyes.
-
-First Citizen	So may you be so brief the moon, and to the start
-	The moon's same season to be married to his grave.
-
-First Citizen	We shall not speak with me t
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	They are,
-	And be the common stones and blood that have been stair'd
-	And then to stand upon the warlike side,
-	And be a charm of state, and the subject's beauteous day
-	Is this a bush of parting than the court is come.
-	The best of his best change, and that he starts the world,
-	That they did counterfeit that hath their father's dead,
-	As those the worst will be a great disposer,
-	And the shadow of the sum of the which
-	Hath to be seen to be the world as the statute of his children,
-	To seek the same of the course of this blood stream
-	And bring to him a barren children on the war
-	That the while which the subject's throne, the state of his
-	Worth they should be a soldier to be
-	Than his conscience should be the world but the world.
-
-	[Exeunt PRINCE HENRY and BASTARD OF ORIER and PORTIA]
-
-POSTHUMUS LEONATUS	The king, and bring thy brother of the compass.
-
-	[Enter MACDUFF]
-
-MACDUFF	I have done so much more a brave and the
-	peril than and the barborn can be merced.
+LADY CAPULET	Why, then, I will not stay awhile.
 
 	[Exeunt]
 
 
 
 
-	KING
+	KING RICHA
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	It is not
-	to be a stand of sorrow that the world shall be
-	The streets of state, and sometimes shall be dead.
-
-	[To the Page]
-
-	When thou dost know the world of this to said,
-	And the proposed shoulders were never to stand to hear
-	The sure of thine own court?
-
-CASSIUS	It is not so.
-
-CASSIUS	I think, to see your grace too stand:
-	There is no stronger things to bed.
-
-	[Enter PROTEUS]
-
-CORIOLANUS	What, with my hands are welcome too?
-
-CASSIUS	There was a book of standing, sir,
-	I see the stranger of your officer.
-	And that I am sure you are such a station
-	As you do see the common part of heaven,
-	And there in such success and the presence
-	Of her own shore and the contents are fortune.
-	Therefore, and there were not the common service, and she
-	should be so beloved.
-
-PRINCE HENRY	What is the mother? What is the morning?
-
-PERICLES	What, will you see your good will were these on yourself?
-
-CORIOLANUS	A goodly day, my lord!
-
-CARDINAL WOLSEY	With a shepherd's death,
-	And the present of the
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	The sea,
-	To be a strange to think that thou wilt needs and teach
-	The condition of the sea against the sea,
-	That took the state of stroke to the people of my life.
-
-Second Servingman	What is it to this strange tongue?
-
-ROSALINE	No, no, nothing but a soul than thou art a stone.
-	Then let me see the sea to thee that thou wilt have, the sea
-	I should never make a merry day.
-
-SALISBURY	The streets of this seasons, sir,
-	That though he shall not be a soul to hear a month
-	The cannon should be done a stranger.
-
-CORDELIA	Not so, my lord, I would not be so.
-
-SHALLOW	He had not, madam.
-
-CLARENCE	He is a soul to her as the devil.
-
-LUCIO	I would I will not see that thou wilt be a soldier.
-
-Second Soldier	The sun shall she become thee a thousand times,
-	And the depending soul of dangerous sense
-	I see thy soul and me the duke and men
-	That I may see my soul and the subject stand.
-
-	[Enter the Page of Syracuse]
-
-	And too well true, to say they are.
-
-SANDS	Not this thing, my lord.
-
-OTHELLO	To see
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	It is not sure,
-	That she shall stay a stranger to the commonwealth of heaven, I
-	lie at the charatello shall be so many that hath so
-	hands and honourable suits and she is strong.
-
-CONSTANS	It is the chain, sir.
-
-DOMITIUS ENOBARBUS	Ay, sir,
-	There is a fool and that shall be as sure
-	That shall be sure to say, that you have done.
-
-	[To SILVIA]
-
-	How now, my lord?
-
-HAMLET	Ay, ay, and so well all this grave.
-	The king hath been so such as sure as her lip,
-	To seek the shadow of his father's son.
-
-	[Enter a Servant]
-
-Servant	I hope, sir, the great conceits of the world, which is the chain.
-
-SIMPLE	I will be so far, when I am sure I have not half that I
-	have done that I am sure, the state of this may
-	seem to the court of his son. I have heard it not as I am a
-	married his poor poison.
-
-First Soldier	But when they say he was?
-
-MENAS	I was, as I have done thee, gentlemen.
-	The gods did find the counsel of his face the commonwealth
-	To tell his sour from her her wit.
-
-DUKE VINCENTIO	He is
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-
-	Prince of the deed of death of the pride and discreets to the
-	day, that they shall have their soul of fair love
-	When thou and the devil did see thy soul to strange and
-	the promise of my love and the deed of the sense.
-	I have told thee then send thy sword and see thy souls and state,
-	While the wildness of my soul is thy deeds and senses
-	Are to thy soul that I might be the sun that were too starved.
-
-DON JOHN	Let me see thou art a man to tell me to the sun.
-
-DON JOHN	Sir, she was something to you that I say.
-
-DUKE	This is the duke and heart of his promise.
-
-CAMILLO	Stand bringed, mark you so fair?
-	I have sent to your lady straight as you are too soon
-	to the duke's dead as you are as a case of man to see.
-
-	[Exeunt]
-
-
-
-
-	THE TAMING OF CARLANES and Clown]
-
-Clown	Well, I warrant you, sir.
-
-SIMPRO	Why, sir, I hope, I prithee, let me see that I am so.
-
-	[Exit POLONIUS]
-
-		               I did not speak with thee,
-	When I do see the pattern of the deed. I have seen
-	The day of soul a
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	Now see her breast,
-	And send the patricians shall be the princess of this place.
-
-	[Enter an Athens]
-
-	[Enter a Servant]
-
-		                       I hear his honour to her,
-	That his statutes that bear him well.
-
-	[Enter a Servant]
-
-Servant	The king hath been the palace of his country with your
-	chamber-cousins with his company. He was a word with him
-	the princess of your secret and a wife and heart. Give ye here
-	and send you to you any thing in your brother,
-	And then the sea of your promises the world, the which
-	Here is the promise to tell your honour and your
-	commonweard and be so faithfully.
-
-	[Exit]
-
-FRIAR LANTIARO	Why, here is this to be as a woman would be wine.
-
-PRINCESS	So doth the king's service then the world's business,
-	That the which shall be thus be so faithfully.
-
-MALVOLIO	Sir, I have said the word.
-
-	[Exit]
-
-
-
-
-	THE MERRY WIVES OF WINDSAR
-
-
-ACT III
-
-
-
-SCENE I	A street.
-
-
-	[Enter CLEON and others]
-
-AGAMEMNON	The princes are as the prince and settles of hearts
-	And
-└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
-
-┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
-	If the prophet
-	Is the such a prince's officer that she shall not
-	Be bounded to the ground of this.
-
-Servant	What shall I say 'It shall be welcome to the gross as her breath,
-	That to the sense of all the world and set
-	A prince a part of death and stars
-	And strangers and to the gods are such as greets
-	That the god o' the wool.
+	I would have been a fault
+	from her fair way, as my son is dead, and there is no
+	more subject answer'd in the mouth o' the state,
+	and so much that he shall be so forsworn.
+
+ANGELO	                        It is not so, sir, to bed that the mother.
+
+PANDARUS	Why, he shall here about the cause of his
+	third before him, as many sums and horses are but a soldier,
+	that she is something; but there is no man's beds, and see
+	him that she will serve me.
+
+SHYLOCK	I am as like to set my father sees
+	To see him and mine eyes are better than a man.
 
 	[Enter a Messenger]
 
-	Therefore, good my lord, and send thy sign the grace
-	And the success of this my friend a grace.
-	The gods that he shall bear the grave the grace of this.
+MENENIUS	If you will stir in me to-day.
 
-BIRON	That is the pretty officer of this,
-	And show them well to thee. I will not be the king
-	That thou art to be there a soul than a man of my
-	prophecy and treaty of the seas,
-	The seas of this things are the weaker of thy son,
-	There is no more to bring the sea of death.
-	But, by my life, and there is to be said,
-	That she hath been the word of mind to seal
-	The great and greater stars of thine
-	That they shall serve their counsels toward the weight
-	That he is great and seeing
+	[They stabb]
+
+	The matter of the three of heavens,
+	And see his mouth as well. Come on.
+
+	[They draw again to the good words.
+
+	[They dies]
+
+	There is a fool in this suppose of me.
+
+ANGELO	I am no both than that.
+
+	[Exit CASSANDRA]
+
+	[Enter a Messenger]
+
+Messenger	My love, my soul is still; I see you will be merry;
+	For you shall now be so assured, and what is he does not?
+
+CLARENCE	A l
 └───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
- 
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+	Marry, what a man in his
+	best side? This is the fool, that hath sent for
+	you,--and the poor man is a poor mother's will, to
+	be a courtier, and he shall not strange
+	the senanes of him.
+
+First Lord	How if it be, sit in the prince of you?
+
+SIR TOBY BELCH	A most statue to be a great and blest to be an oath.
+	But wherefore do you tell me where I do think so?
+
+PAROLLES	I wish you are not sent to be more worthy
+	one and to be with your father and my sister in your side; and
+	you are not found it.
+
+SILENCE	Thanks and a process of this shall be a cause, that
+	here is not a prince and to be caught and come away.
+
+POINS	Ay, sir, it was a great suit.
+
+SIR TOBY BELCH	What should I hear the court? I would
+	have a song of this powerful side?
+
+SIR ANDREW	Belike is the first, and there's not the poor friend of the prisoners' country
+	one that have been so his son interest in him. And when
+	the winds of time were sent for himself and his country
+	for the poins of his contents.
+
+Servant	O Lord, sir,
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
+
+┌───────────────────────────────────Generating random text from learned state───────────────────────────────────┐
+
+
+TIMON	And what thou sayest thou, my lord,
+	Thou hadst a truth a mercy and the bark,
+	That she is stale, and to thy sight. What is't?
+
+CASSIO	I am sorry for my life, I cannot be so soon as my sister.
+
+	[Exeunt]
+
+
+
+
+	THE TAMING OF THE SHREW
+
+
+ACT IV
+
+
+
+SCENE III	Talbot.
+
+
+	[Enter ANTIPHOLUS of Sicilia, with the castle.
+
+
+	[Enter PANDARUS]
+
+PRINCE HENRY	What say'st thou, master Fortune, thou shalt be coming
+	that have thy sons that shows the thing to thee.
+
+	[Enter Attendant]
+
+	This sight of silence thou art capable,
+	And thou hast made the bear the tears of her before
+	Where have the senators that they did serve.
+
+	[Enten and the Boats]
+
+	Who can see home and see how they are strange?
+	What shall we see this fool and say? a save thing thou art clouded,
+	That the more common titles there with him,
+	And bear his charge to her before him too,
+	And that they call his horse to bad and hath?
+	And thou hast mercy in the sea, to see the state,
+	And so he will command to the king of them.
+
+PRIN
+└───────────────────────────────────────────────End of generation───────────────────────────────────────────────┘
